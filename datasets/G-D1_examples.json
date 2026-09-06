@@ -1,0 +1,5330 @@
+[
+  {
+    "id": "special_0001",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "اذا المرء لم يكرم نفسه هان"
+  },
+  {
+    "id": "special_0002",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "يا ليل طل فالهم ضيف نازل وسهاد عيني في هواك مقيم"
+  },
+  {
+    "id": "special_0003",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "وما الحب الا نظرة ثم ابتسامة ثم حديث ثم ميعاد يجمع بين قلبين افترقا زمنا طويلا"
+  },
+  {
+    "id": "special_0004",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "الا كل شيء ما خلا الله باطل، وكل نعيم لا محالة زائل، فمن ذا الذي يركن الى دنيا لا تدوم له ولا يدوم لها"
+  },
+  {
+    "id": "special_0005",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "سلاما على الايام في ظل عيشنا وطيب زمان كان في العمر سالفا"
+  },
+  {
+    "id": "special_0006",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "رب يوم بكيت فيه فلما صرت في غيره بكيت عليه"
+  },
+  {
+    "id": "special_0007",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "فان تك نفسي لا تزال مريبة بريب الزمان فالحوادث جمة، وما زال هذا الدهر يعطي ويسلب"
+  },
+  {
+    "id": "special_0008",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "ولا خير في ود اذا كان كاذبا، ولا خير في وعد اذا لم يوف به صاحبه"
+  },
+  {
+    "id": "special_0009",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "اذا غامرت في شرف مروم فلا تقنع بما دون النجوم، فطعم الموت في امر حقير كطعمه في امر عظيم"
+  },
+  {
+    "id": "special_0010",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "عذيري فيك عاذلتي"
+  },
+  {
+    "id": "special_0011",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "وما نيل المطالب بالتمني، ولكن تؤخذ الدنيا غلابا، فمن طلب العلا سهر الليالي وجاهد نفسه حتى بلغها"
+  },
+  {
+    "id": "special_0012",
+    "broad_genre": "Creative",
+    "specific_genre": "classical_poetry",
+    "Text": "فلا تحسبن المجد زقا وقينة، فان المجد انى اتاك فاصطبر"
+  },
+  {
+    "id": "special_0013",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "يا واد يا حلو انت اللي مليت عليا الدنيا"
+  },
+  {
+    "id": "special_0014",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "قوللي بحبك تاني، مش عايز غير كلمة منك تريحلي القلب اللي تعب من كتر الانتظار"
+  },
+  {
+    "id": "special_0015",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "ليه كل ما اقرب منك تبعد، مش عارف اعمل ايه في الحكاية دي"
+  },
+  {
+    "id": "special_0016",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "من ساعة ما بعدت عني بقى الليل طويل والفرح بعيد، وكل حاجة حواليا فقدت طعمها من غيرك يا اغلى الناس"
+  },
+  {
+    "id": "special_0017",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "هو ده الحب اللي احنا فيه ولا انا اللي بحلم لوحدي"
+  },
+  {
+    "id": "special_0018",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "يا عمري متروحش"
+  },
+  {
+    "id": "special_0019",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "كل ما اقول نسيتك تفتكر انا وتزيد وجعي، وانا في الاخر بلاقي نفسي رجعت لنفس المكان"
+  },
+  {
+    "id": "special_0020",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "مافيش حد زيك حسسني اني حي تاني بعد كل اللي جرالي في السنين اللي فاتت"
+  },
+  {
+    "id": "special_0021",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "ياما قلبي اتعب وانت مش حاسس وانا لسه بحبك زي اول مرة"
+  },
+  {
+    "id": "special_0022",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "خدني بعيد"
+  },
+  {
+    "id": "special_0023",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "مش لاقي كلام يوصفلك حبي بس عيني بتقول كل حاجة وانت عارف ده من زمان بيننا"
+  },
+  {
+    "id": "special_0024",
+    "broad_genre": "Creative",
+    "specific_genre": "egyptian_song_lyrics",
+    "Text": "هوه انا غلطان لما حبيتك ولا الغلط ان الدنيا فرقتنا واحنا كنا في احلى ايامنا"
+  },
+  {
+    "id": "special_0025",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "يا غالي يا اللي سكنت قلبي ما بيني وبينك غير الوفا"
+  },
+  {
+    "id": "special_0026",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "شفتك وهمي راح"
+  },
+  {
+    "id": "special_0027",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "ليتك تدري قد ايش اشتاق لك والليل عندي طال بدونك وانا اعد الساعات لين اشوفك"
+  },
+  {
+    "id": "special_0028",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "دربك صعب بس انا ماشي عليه لان قلبي مربوط فيك من اول يوم شفتك فيه"
+  },
+  {
+    "id": "special_0029",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "يا اللي ناسيني وانا بذاكرك ليش الوفا صار بيننا نادر"
+  },
+  {
+    "id": "special_0030",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "كل ما ابتسمت اتذكرك"
+  },
+  {
+    "id": "special_0031",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "هجرك صعب وانا صابر عليه من زمان، وربي يعلم قد ايش تعبت واني ماني قادر انساك"
+  },
+  {
+    "id": "special_0032",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "ما بنساك مهما الايام بعدت انت اول حب وآخر امل بحياتي كلها"
+  },
+  {
+    "id": "special_0033",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "يا حبيبي لا تخاف انا معاك ولو الدنيا صعبت وتغيرت كل الاحوال حولنا"
+  },
+  {
+    "id": "special_0034",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "قلبي تعلق فيك من اول نظرة"
+  },
+  {
+    "id": "special_0035",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "عيونك سرقت مني الهدوء وصرت افكر فيك ليل ونهار، وكل شي حولي يذكرني فيك"
+  },
+  {
+    "id": "special_0036",
+    "broad_genre": "Creative",
+    "specific_genre": "gulf_song_lyrics",
+    "Text": "وينك يا اللي كنت اهم انسان ليش الغياب طال هالمرة، وانا مليت من السؤال عنك"
+  },
+  {
+    "id": "special_0037",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "يمه اشتاگ لهلي وايام زمان الحلوة اللي مرت وما ترجع، وگلبي دايم يحن الهم"
+  },
+  {
+    "id": "special_0038",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "فرگتك وگلبي انجرح"
+  },
+  {
+    "id": "special_0039",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "ياخذني الحزن لمن اتذكر ايامنه سوه، وهسه بعدنا كل واحد بدرب"
+  },
+  {
+    "id": "special_0040",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "عيني تدور عليك بيه كل مكان وما تلگاك، والگلب تعب من طول الفراگ اللي صار بينا"
+  },
+  {
+    "id": "special_0041",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "شگد صعب الفراگ ما كنت ادري راح يوصلنه لهيچ"
+  },
+  {
+    "id": "special_0042",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "حبيبي وين رحت"
+  },
+  {
+    "id": "special_0043",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "دايم اسولف عنك لاهلي واگلهم شگد كنت طيب، وياهم دموعي تنزل لمن اذكرك"
+  },
+  {
+    "id": "special_0044",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "ليلي طويل من غيابك وصار السهر عادة عندي"
+  },
+  {
+    "id": "special_0045",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "ما نسيت يوم لكيتك اول مرة وضحكتك اللي ما تنسى، والگلب لسه يذكر هيچ يوم"
+  },
+  {
+    "id": "special_0046",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "گلبي يريدك رغم كل الجروح"
+  },
+  {
+    "id": "special_0047",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "ماكو احلى من ايام الطفولة بالمحلة ولعبنه بالزقاگ"
+  },
+  {
+    "id": "special_0048",
+    "broad_genre": "Creative",
+    "specific_genre": "iraqi_song_lyrics",
+    "Text": "فرحتك فرحتي وحزنك حزني هذا اللي ادري بيه من زمان طويل"
+  },
+  {
+    "id": "special_0049",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "يا قلبي ليش هيك مشتاق وهو مش هون معي"
+  },
+  {
+    "id": "special_0050",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "ضليت مستنيك"
+  },
+  {
+    "id": "special_0051",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "كل ما بتذكرك بضحك لحالي بس بعدين بوجعني الحنين، ومحدا بيعرف قديش صعب عليي هالشي"
+  },
+  {
+    "id": "special_0052",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "حبيبي وينك الدني بغيابك صارت رمادية وما عاد الها طعم متل الاول"
+  },
+  {
+    "id": "special_0053",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "ما بنسى اول مرة حكيتلي فيها انك بتحبني وانا كنت مصدق كل كلمة"
+  },
+  {
+    "id": "special_0054",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "تعبت من الانتظار"
+  },
+  {
+    "id": "special_0055",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "كل غنية بسمعا بتذكرني فيك ما بعرف كيف بنسى، وكانو الايام احلى لما كنت جنبي"
+  },
+  {
+    "id": "special_0056",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "يا ريتك تفهم قديش صعب عليي البعد عنك وقديش الايام صارت طويلة"
+  },
+  {
+    "id": "special_0057",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "ضحكتك بتنسيني كل همومي وبترجع الفرح لحياتي مهما الدني ضاقت فيي"
+  },
+  {
+    "id": "special_0058",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "ما حدا زيك"
+  },
+  {
+    "id": "special_0059",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "عم دور عليك بكل الشوارع وما بلاقيك وقلبي تعب من كتر التفكير"
+  },
+  {
+    "id": "special_0060",
+    "broad_genre": "Creative",
+    "specific_genre": "levantine_song_lyrics",
+    "Text": "رح ضل بستناك مهما طال الزمن وما رح انسى يوم كنا فيه سوا"
+  },
+  {
+    "id": "special_0061",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "انا سؤال في مراة الغروب ابحث عن جواب لم يخلق بعد"
+  },
+  {
+    "id": "special_0062",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "تسير خطاي"
+  },
+  {
+    "id": "special_0063",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "في المدينة التي احبها تتشابه الوجوه وتختلف الاحزان، وتبقى الذاكرة وحدها من يميز بين الوجوه"
+  },
+  {
+    "id": "special_0064",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "للحرية طعم الملح حين تذاق بعد طول العطش، ولا يعرف قيمتها الا من عاش بلا صوت"
+  },
+  {
+    "id": "special_0065",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "كتبت اسمك على الرمل فمحاه البحر ولم يمح ذكرى العناق"
+  },
+  {
+    "id": "special_0066",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "نحن ابناء الانتظار"
+  },
+  {
+    "id": "special_0067",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "نرتب احلامنا كل مساء ونخفيها عن الصباح، كانها سر لا يجب ان يعرفه احد سوانا"
+  },
+  {
+    "id": "special_0068",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "هل تكفي كلمة حب واحدة لتنقذ قلبا غرق في العتمة منذ زمن بعيد"
+  },
+  {
+    "id": "special_0069",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "للوطن في قلبي مكان لا يتسع لغيره ولو ضاقت الارض بمن فيها وتبدلت كل الاحوال"
+  },
+  {
+    "id": "special_0070",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "الحزن ضيف لا يطرق الباب له"
+  },
+  {
+    "id": "special_0071",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "اعيد ترتيب حروفي كل مرة اخسر فيها شيئا من نفسي، وكانني اعيد كتابة قصتي من جديد"
+  },
+  {
+    "id": "special_0072",
+    "broad_genre": "Creative",
+    "specific_genre": "msa_poetry",
+    "Text": "في عينيك سؤال عن العالم وفي صمتي اجابة ناقصة دائما"
+  },
+  {
+    "id": "special_0073",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "يا زينة ياخي ما بتتنسى ولا يوم واحد من عمري"
+  },
+  {
+    "id": "special_0074",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "الشوق دا تعبني"
+  },
+  {
+    "id": "special_0075",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "زمان كان الفرح بسيط وهسع بقينا نبحث عنو بعيد، وكل شي تغير من حولينا بسرعة"
+  },
+  {
+    "id": "special_0076",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "البعاد دا صعب بس قلبي راضي طالما بفكر فيك ومحتفظ بكل ذكرى بينا"
+  },
+  {
+    "id": "special_0077",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "كل ما اتذكر ضحكتك بنسى الهم كلو"
+  },
+  {
+    "id": "special_0078",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "يا حبيبي وين ما تكون"
+  },
+  {
+    "id": "special_0079",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "الليالي طويلة من غيابك والانتظار صعب علي، وما عاد النوم يجيني متل زمان"
+  },
+  {
+    "id": "special_0080",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "دايرك تعرف قد شنو اشتقتلك الكلام ما كفاني يوم من الايام"
+  },
+  {
+    "id": "special_0081",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "يما حكاياتك زي الفل ما بتخلص ولا تمل، وكل حكاية بتفتح باب لذكرى جديدة"
+  },
+  {
+    "id": "special_0082",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "رجعتلي الفرح"
+  },
+  {
+    "id": "special_0083",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "البلد دا غالي علينا وطينو ريحتو بتفرحنا مهما بعدنا عنو سنين"
+  },
+  {
+    "id": "special_0084",
+    "broad_genre": "Creative",
+    "specific_genre": "sudanese_song_lyrics",
+    "Text": "كل شي بيوجعني الا ذكراك دي اللي بتفرحني وسط الزحمة والتعب اليومي"
+  },
+  {
+    "id": "special_0085",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "مطلوب سكرتيرة"
+  },
+  {
+    "id": "special_0086",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "من يمتلك مهارة تنظيم عالية يمكنه التقدم لوظيفة مساعد اداري في شركة تجارية متوسطة الحجم"
+  },
+  {
+    "id": "special_0087",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "تعلن مؤسسة تعليمية عن حاجتها الى موظف ادارة مكتبية يتولى تنظيم الملفات وارشفة المستندات وتنسيق المواعيد اليومية مع الاقسام المختلفة"
+  },
+  {
+    "id": "special_0088",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "الشركة الرائدة في مجال الخدمات اللوجستية تبحث حاليا عن سكرتير تنفيذي يتمتع بمهارات تنظيمية عالية وقدرة على التعامل مع ضغط العمل، بالاضافة الى اجادة اللغتين العربية والانجليزية كتابة وتحدثا في بيئة عمل سريعة التغير"
+  },
+  {
+    "id": "special_0089",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "وظيفة استقبال شاغرة تشمل استقبال الزوار وتوجيههم ضمن مبنى اداري كبير"
+  },
+  {
+    "id": "special_0090",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "اذا كنت تجيد التعامل مع الحاسوب وترتيب الملفات فهذه فرصتك للانضمام الى قسم الارشفة لدينا"
+  },
+  {
+    "id": "special_0091",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "انضم الى فريقنا كمنسق اداري لمتابعة طلبات الاقسام وتوفير الدعم اللوجستي اليومي للعاملين في الشركة"
+  },
+  {
+    "id": "special_0092",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "من مهام هذه الوظيفة صياغة المراسلات الرسمية وتنظيم جداول الاعمال للاجتماعات الادارية وتحضير التقارير الشهرية التي ترفع للادارة العليا بشكل دوري"
+  },
+  {
+    "id": "special_0093",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "نبحث عن موظف متابعة فواتير للتنسيق مع الموردين والادارة المالية"
+  },
+  {
+    "id": "special_0094",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "شاغر وظيفي"
+  },
+  {
+    "id": "special_0095",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "مطلوب مساعدة تنفيذية للتعامل مع البريد الالكتروني وتنظيم رحلات العمل وحجوزات الفنادق للمدير التنفيذي طوال العام"
+  },
+  {
+    "id": "special_0096",
+    "broad_genre": "Informative",
+    "specific_genre": "admin_and_secretarial_jobs",
+    "Text": "تبحث المؤسسة عن موظف دعم اداري بدوام كامل يمتلك خبرة سابقة في ادارة قواعد البيانات المكتبية وتنظيم سجلات الموظفين بشكل دقيق ومنظم"
+  },
+  {
+    "id": "special_0097",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "كتاب عن الخط العربي"
+  },
+  {
+    "id": "special_0098",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "يوثق هذا الكتاب مسيرة رواد الخط العربي واثرهم على الهوية البصرية المعاصرة في المنطقة"
+  },
+  {
+    "id": "special_0099",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "تدور فصول هذا الكتاب حول تطور الفن التشكيلي العربي عبر القرن الماضي، مستعرضا لوحات ومقالات نقدية ساهمت في تشكيل الذائقة الفنية للمشاهد العربي"
+  },
+  {
+    "id": "special_0100",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "يقدم المؤلف في هذا العمل دراسة موسعة حول حركات الفن الحديث في العالم العربي، تتناول السريالية والتجريدية وتاثير الاستعمار على الانتاج الفني، مع امثلة موثقة من تجارب فنانين عاشوا تلك المرحلة عن قرب"
+  },
+  {
+    "id": "special_0101",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "كتاب مصور يوثق فن الخزف والفخار التقليدي في شمال افريقيا"
+  },
+  {
+    "id": "special_0102",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "من يهتم بتاريخ السينما العربية سيجد في هذا الكتاب لمحة شاملة منذ نشاتها وحتى الموجة الجديدة"
+  },
+  {
+    "id": "special_0103",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "عمل فني يجمع بين التصوير الفوتوغرافي والنقد الثقافي لتوثيق التحولات الحضرية في المدن العربية على مدى عقدين من الزمن"
+  },
+  {
+    "id": "special_0104",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "دراسة تحليلية لمسيرة النحت العربي المعاصر وابرز اعلامه ومدارسه الفنية المختلفة"
+  },
+  {
+    "id": "special_0105",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "يستعرض هذا الكتاب اثر الموسيقى الشعبية على تشكيل الهوية الثقافية للمجتمعات العربية عبر الزمن"
+  },
+  {
+    "id": "special_0106",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "قراءة نقدية لاعمال فنانين عرب"
+  },
+  {
+    "id": "special_0107",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "المؤلف يروي هنا تجربته الشخصية في عالم التصميم الجرافيكي وتطوره عبر العقود المختلفة"
+  },
+  {
+    "id": "special_0108",
+    "broad_genre": "Informative",
+    "specific_genre": "arts_book_description",
+    "Text": "عمل يبحث في العلاقة بين المسرح العربي والقضايا الاجتماعية منذ بدايات القرن العشرين، مستعرضا نماذج من عروض شكلت وعي الجمهور تجاه قضايا مجتمعية كبرى"
+  },
+  {
+    "id": "special_0109",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "مطلوب فني ميكانيكي"
+  },
+  {
+    "id": "special_0110",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "من يمتلك خبرة في اصلاح صناديق التروس الاوتوماتيكية مرحب به للانضمام الى ورشتنا"
+  },
+  {
+    "id": "special_0111",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "تعلن شركة تاجير سيارات عن حاجتها لفني كهرباء سيارات ذي خبرة لا تقل عن ثلاث سنوات في تشخيص الاعطال الكهربائية المعقدة"
+  },
+  {
+    "id": "special_0112",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "فرصة عمل لفني تبريد وتكييف سيارات مع توفير تدريب على احدث الاجهزة والمعدات المستخدمة في القطاع، بالاضافة الى بيئة عمل محفزة ورواتب تنافسية"
+  },
+  {
+    "id": "special_0113",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "وظيفة فني دهان وسمكرة سيارات يجيد التعامل مع ادوات اصلاح الهيكل الخارجي"
+  },
+  {
+    "id": "special_0114",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "انضم الينا كفني تشخيص اعطال باستخدام اجهزة الفحص الحديثة واعداد تقارير الصيانة للعملاء"
+  },
+  {
+    "id": "special_0115",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "مشرف ورشة صيانة"
+  },
+  {
+    "id": "special_0116",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "من مهام هذه الوظيفة الاشراف على فريق الفنيين ومتابعة جودة الاصلاحات وضمان التزام الجميع بمعايير السلامة داخل الورشة"
+  },
+  {
+    "id": "special_0117",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "مطلوب مساعد ميكانيكي لتنظيف وتجهيز السيارات قبل عمليات الصيانة"
+  },
+  {
+    "id": "special_0118",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "شركة قطع الغيار الكبرى تبحث عن فني هيدروليك متخصص في صيانة معدات الرفع والشاحنات الثقيلة، مع خبرة عملية في التعامل مع الاعطال الميدانية"
+  },
+  {
+    "id": "special_0119",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "تعلن ورشة عن حاجتها لفني تلميع وتنظيف داخلي وخارجي للسيارات"
+  },
+  {
+    "id": "special_0120",
+    "broad_genre": "Informative",
+    "specific_genre": "automotive_and_mechanics_jobs",
+    "Text": "مطلوب مهندس سيارات لمتابعة جودة الانتاج في خط تجميع المركبات"
+  },
+  {
+    "id": "special_0121",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "مذكرات كاتب"
+  },
+  {
+    "id": "special_0122",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "تروي هذه المذكرات مسيرة الكاتب منذ طفولته الفقيرة وحتى وصوله الى القمة في مجاله"
+  },
+  {
+    "id": "special_0123",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "سيرة ذاتية تكشف تفاصيل حياة سياسي بارز وتجاربه في الحكم خلال فترة مضطربة من تاريخ بلاده"
+  },
+  {
+    "id": "special_0124",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "يستعرض هذا الكتاب قصة رجل اعمال بدا من الصفر وبنى امبراطورية تجارية عابرة للقارات، مستعرضا اهم قراراته ومحطات فشله ونجاحه على مدى اربعة عقود من العمل الدؤوب"
+  },
+  {
+    "id": "special_0125",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "مذكرات طبيب عمل في مناطق النزاع يروي فيها قصص المرضى الذين غيروا نظرته للحياة"
+  },
+  {
+    "id": "special_0126",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "سيرة رياضي عالمي"
+  },
+  {
+    "id": "special_0127",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "يتحدث الكاتب في هذه السيرة عن رحلته من الفقر الى البطولة، مستعرضا اللحظات الفاصلة التي شكلت مسيرته الرياضية"
+  },
+  {
+    "id": "special_0128",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "كتاب يستعرض حياة مفكر عربي واثره الفكري على اجيال من القراء عبر مؤلفاته المتعددة"
+  },
+  {
+    "id": "special_0129",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "مذكرات امراة عاشت تجربة الهجرة وتاقلمها مع ثقافة جديدة بعيدا عن وطنها الاصلي، وكيف اعادت بناء حياتها من الصفر في بلد غريب"
+  },
+  {
+    "id": "special_0130",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "تروي هذه السيرة تفاصيل حياة عالم اكتشف اختراعا غير مجرى العلم الحديث"
+  },
+  {
+    "id": "special_0131",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "كتاب يجمع رسائل ويوميات كاتب راحل تكشف جوانب خفية من شخصيته لم يعرفها القراء من قبل"
+  },
+  {
+    "id": "special_0132",
+    "broad_genre": "Informative",
+    "specific_genre": "biographies_memoirs_book_description",
+    "Text": "مذكرات صحفي غطى اهم الاحداث العالمية خلال اربعة عقود من العمل الميداني، متنقلا بين مناطق الحروب والازمات السياسية الكبرى"
+  },
+  {
+    "id": "special_0133",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "مطلوب عامل نظافة"
+  },
+  {
+    "id": "special_0134",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "من يبحث عن عمل مستقر يمكنه التقدم لوظيفة عامل تعقيم في احد المستشفيات المحلية"
+  },
+  {
+    "id": "special_0135",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "تعلن شركة خدمات عن حاجتها لعمال تنظيف للعمل في المباني السكنية الكبرى ضمن جداول عمل مرنة"
+  },
+  {
+    "id": "special_0136",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "فرصة عمل لمشرف نظافة يتولى تنظيم فرق العمل ومتابعة جودة التنظيف في المولات التجارية، مع الاشراف على توزيع المهام اليومية وضمان الالتزام بمعايير السلامة والنظافة العامة"
+  },
+  {
+    "id": "special_0137",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "وظيفة عامل نظافة فندقي تشمل تنظيف الغرف وتجهيزها للنزلاء"
+  },
+  {
+    "id": "special_0138",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "مطلوب فريق تنظيف"
+  },
+  {
+    "id": "special_0139",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "انضم الينا كعامل نظافة عام للمرافق التعليمية خلال الفترة الصباحية بدوام كامل"
+  },
+  {
+    "id": "special_0140",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "شركة النظافة الكبرى تبحث عن عمال لتنظيف الواجهات الزجاجية للمباني المرتفعة، مع توفير معدات السلامة الكاملة والتدريب اللازم قبل بدء العمل"
+  },
+  {
+    "id": "special_0141",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "مطلوب عامل نظافة سيارات للعمل في مواقف السيارات العامة"
+  },
+  {
+    "id": "special_0142",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "تعلن الجهة عن حاجتها لعمال نظافة للمساجد يشمل العمل تنظيف السجاد والمرافق العامة"
+  },
+  {
+    "id": "special_0143",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "وظيفة اشرافية لتنسيق فرق النظافة في المرافق الحكومية وضمان الالتزام بالجدول الزمني المحدد لكل مرفق على حدة"
+  },
+  {
+    "id": "special_0144",
+    "broad_genre": "Informative",
+    "specific_genre": "cleaning_services_jobs",
+    "Text": "مطلوب عامل نظافة مطاعم يشمل تنظيف المطبخ والصالة بعد كل وردية"
+  },
+  {
+    "id": "special_0145",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "التراث الثقافي"
+  },
+  {
+    "id": "special_0146",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "تعد القهوة العربية من ابرز رموز الضيافة في شبه الجزيرة العربية"
+  },
+  {
+    "id": "special_0147",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "يتميز الادب الشعبي بانتقاله شفهيا عبر الاجيال قبل ان يدون في كتب ومجموعات لاحقة تحفظه من الاندثار"
+  },
+  {
+    "id": "special_0148",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "تعكس الازياء التقليدية في كل منطقة عربية طبيعة المناخ والموارد المتاحة، فضلا عن الرموز الاجتماعية المرتبطة بالمناسبات المختلفة كالزواج والاعياد، وهو ما يجعلها مرآة حقيقية لتنوع المجتمعات العربية"
+  },
+  {
+    "id": "special_0149",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "يعرف الخط العربي بانه فن الكتابة الجمالية للحروف، وقد تطور عبر مدارس متعددة ابرزها الكوفي والنسخ والثلث"
+  },
+  {
+    "id": "special_0150",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "طقوس احتفالية موسمية"
+  },
+  {
+    "id": "special_0151",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "تحتفظ العديد من المجتمعات العربية بطقوس احتفالية موسمية ترتبط بالزراعة والحصاد منذ القدم"
+  },
+  {
+    "id": "special_0152",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "يشكل المسرح الشعبي وسيلة تقليدية للتعبير عن القضايا الاجتماعية باسلوب ساخر او رمزي، وقد لعب دورا مهما في نقل الوعي بين ابناء المجتمع الواحد"
+  },
+  {
+    "id": "special_0153",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "تعد الحكايات الشعبية اداة تربوية قديمة استخدمها الاجداد لنقل القيم الاخلاقية للاطفال"
+  },
+  {
+    "id": "special_0154",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "يرتبط فن العمارة الطينية التقليدية بمناطق معينة نظرا لتوفر المواد الخام وملاءمتها للمناخ الحار"
+  },
+  {
+    "id": "special_0155",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "تعد الاسواق الشعبية مساحة ثقافية تجمع بين التجارة والتراث الحرفي والتفاعل الاجتماعي بين مختلف فئات المجتمع"
+  },
+  {
+    "id": "special_0156",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_encyclopedia",
+    "Text": "تتنوع الالات الموسيقية التقليدية بين منطقة واخرى، وتعكس كل الة خصوصية ثقافية للمجتمع الذي انتجها عبر تاريخه الطويل"
+  },
+  {
+    "id": "special_0157",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "افتتح معرض فني دولي"
+  },
+  {
+    "id": "special_0158",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "اعلنت وزارة الثقافة عن اطلاق مهرجان سنوي للفنون التشكيلية بمشاركة فنانين من عدة دول"
+  },
+  {
+    "id": "special_0159",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "احتفلت دار الاوبرا الليلة الماضية بعرض مسرحي جديد استقطب جمهورا واسعا من مختلف الاعمار"
+  },
+  {
+    "id": "special_0160",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "شهدت المكتبة الوطنية توقيع رواية جديدة لكاتب شاب، حضره عدد من النقاد والمهتمين بالشان الادبي، وسط اشادة بأسلوبه السردي المميز الذي وصفه الحضور بالجرأة والعمق"
+  },
+  {
+    "id": "special_0161",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "اقيم مؤتمر ادبي ناقش تاثير الترجمة على انتشار الادب العربي عالميا"
+  },
+  {
+    "id": "special_0162",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "اسبوع الفيلم الوثائقي"
+  },
+  {
+    "id": "special_0163",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "اعلن متحف التراث عن ترميم مجموعة من القطع الاثرية النادرة واعادة عرضها للجمهور"
+  },
+  {
+    "id": "special_0164",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "نظمت الهيئة الثقافية ورشة عمل حول الحفاظ على المخطوطات القديمة، بمشاركة خبراء متخصصين في مجال الترميم والتوثيق التاريخي"
+  },
+  {
+    "id": "special_0165",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "حصد فيلم عربي جائزة افضل عمل روائي في مهرجان سينمائي دولي مرموق"
+  },
+  {
+    "id": "special_0166",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "اقيم حفل توزيع جوائز الابداع الادبي بحضور عدد من كبار الكتاب والشعراء المحليين والعرب"
+  },
+  {
+    "id": "special_0167",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "افتتحت مؤخرا قاعة جديدة للفنون الرقمية تضم اعمال فنانين شباب من المنطقة، في خطوة تهدف الى دعم الفن الرقمي المعاصر"
+  },
+  {
+    "id": "special_0168",
+    "broad_genre": "Informative",
+    "specific_genre": "culture_news",
+    "Text": "اعلنت الجهات المعنية عن ادراج موقع اثري جديد ضمن قائمة التراث العالمي"
+  },
+  {
+    "id": "special_0169",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "مطلوب موظف خدمة عملاء"
+  },
+  {
+    "id": "special_0170",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "من يجيد التعامل مع شكاوى العملاء يمكنه الانضمام الى مركز الاتصال لدينا"
+  },
+  {
+    "id": "special_0171",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "تعلن شركة اتصالات عن حاجتها لموظفي مركز اتصال يجيدون التعامل مع مختلف انواع استفسارات العملاء"
+  },
+  {
+    "id": "special_0172",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "فرصة عمل في قسم دعم العملاء لمتابعة الطلبات عبر الدردشة الالكترونية وحل المشكلات بسرعة، مع الحفاظ على مستوى عال من رضا الزبائن وتقديم حلول فورية ومهنية لكل استفسار"
+  },
+  {
+    "id": "special_0173",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "وظيفة ممثل خدمة عملاء يتحدث الانجليزية بطلاقة للعمل في شركة دولية"
+  },
+  {
+    "id": "special_0174",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "موظف استقبال شكاوى"
+  },
+  {
+    "id": "special_0175",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "انضم الينا كموظف دعم فني للرد على استفسارات العملاء حول الطلبات في شركة التجارة الالكترونية"
+  },
+  {
+    "id": "special_0176",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "من مهام هذه الوظيفة متابعة اداء الفريق وضمان جودة الرد على المكالمات، اضافة الى اعداد تقارير دورية عن مستوى رضا العملاء تقدم للادارة"
+  },
+  {
+    "id": "special_0177",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "مطلوب موظف خدمة عملاء لفرع بنكي يتولى استقبال العملاء وتوجيههم للخدمات المصرفية"
+  },
+  {
+    "id": "special_0178",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "شركة الطيران الكبرى تبحث عن موظفي خدمة عملاء للعمل في مطار مزدحم بنظام الورديات المتعددة"
+  },
+  {
+    "id": "special_0179",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "مطلوب موظف دعم عملاء لشركة برمجيات يشمل حل المشكلات التقنية البسيطة للمستخدمين"
+  },
+  {
+    "id": "special_0180",
+    "broad_genre": "Informative",
+    "specific_genre": "customer_service_jobs",
+    "Text": "وظيفة شاغرة في قسم العلاقات مع العملاء لمتابعة الحسابات الكبرى وتلبية احتياجاتهم الخاصة بشكل مستمر"
+  },
+  {
+    "id": "special_0181",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "مطلوب سائق توصيل"
+  },
+  {
+    "id": "special_0182",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "من يمتلك دراجة نارية خاصة يمكنه التقدم لوظيفة توصيل طلبات داخل المدينة"
+  },
+  {
+    "id": "special_0183",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "تعلن شركة شحن عن حاجتها لسائقي شاحنات لنقل البضائع بين المدن ضمن جداول عمل منتظمة"
+  },
+  {
+    "id": "special_0184",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "فرصة عمل لسائق توصيل طلبات مطاعم، يشترط توفر رخصة قيادة سارية ودراجة نارية خاصة، مع الالتزام بمواعيد التسليم المحددة لضمان وصول الطلبات ساخنة وفي الوقت المناسب لكل زبون"
+  },
+  {
+    "id": "special_0185",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "وظيفة سائق حافلة مدرسية يتمتع بخبرة لا تقل عن خمس سنوات"
+  },
+  {
+    "id": "special_0186",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "مندوب توصيل طرود"
+  },
+  {
+    "id": "special_0187",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "انضم الينا كسائق شاحنة مبردة لنقل المواد الغذائية بين الفروع المختلفة"
+  },
+  {
+    "id": "special_0188",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "من مهام هذه الوظيفة تشغيل سيارة الاسعاف وفق جدول ورديات محدد، مع الالتزام برخصة قيادة من الفئة المناسبة وخبرة في التعامل مع حالات الطوارئ"
+  },
+  {
+    "id": "special_0189",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "مطلوب سائق اجرة لدى شركة نقل ذكي يشمل العمل نوبات مسائية"
+  },
+  {
+    "id": "special_0190",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "تعلن شركة تاجير سيارات عن حاجتها لسائقين لتوصيل السيارات بين الفروع المختلفة في اكثر من مدينة"
+  },
+  {
+    "id": "special_0191",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "مطلوب سائق شاحنة نقل ثقيل يحمل رخصة قيادة دولية"
+  },
+  {
+    "id": "special_0192",
+    "broad_genre": "Informative",
+    "specific_genre": "drivers_and_delivery_jobs",
+    "Text": "وظيفة سائق خاص لشركة توصيل بضائع صغيرة داخل الاحياء التجارية بنظام دوام مرن"
+  },
+  {
+    "id": "special_0193",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "كتاب عن ريادة الاعمال"
+  },
+  {
+    "id": "special_0194",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "يقدم هذا الكتاب تحليلا معمقا لاسباب الازمات المالية العالمية وسبل تفاديها مستقبلا"
+  },
+  {
+    "id": "special_0195",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "كتاب يشرح اسس ريادة الاعمال وكيفية تحويل الفكرة الى مشروع تجاري ناجح خطوة بخطوة"
+  },
+  {
+    "id": "special_0196",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "يستعرض المؤلف في هذا العمل تجارب شركات ناشئة نجحت في اقتحام اسواق تنافسية، مسلطا الضوء على استراتيجيات التسويق والتمويل التي اعتمدتها لتحقيق النمو السريع خلال سنوات قليلة من التاسيس"
+  },
+  {
+    "id": "special_0197",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "كتاب يتناول مبادئ الاستثمار الذكي وادارة المخاطر في الاسواق المالية"
+  },
+  {
+    "id": "special_0198",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "الاقتصاد الاخضر"
+  },
+  {
+    "id": "special_0199",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "دراسة اقتصادية تناقش تاثير التضخم على القوة الشرائية للاسر في الدول النامية"
+  },
+  {
+    "id": "special_0200",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "يقدم هذا الكتاب دليلا عمليا لادارة الشركات العائلية وتجاوز ازمات التوريث، مستندا الى دراسات حالة واقعية من المنطقة العربية والعالم"
+  },
+  {
+    "id": "special_0201",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "كتاب يناقش مفهوم الاقتصاد الاخضر ودوره في تحقيق التنمية المستدامة"
+  },
+  {
+    "id": "special_0202",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "دراسة تحليلية لاثر السياسات النقدية على معدلات البطالة في المنطقة العربية خلال العقد الاخير"
+  },
+  {
+    "id": "special_0203",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "كتاب يستعرض ابرز نظريات التفاوض التجاري وتطبيقاتها في عالم الاعمال"
+  },
+  {
+    "id": "special_0204",
+    "broad_genre": "Informative",
+    "specific_genre": "economics_business_book_description",
+    "Text": "عمل يناقش دور الذكاء الاصطناعي في تحويل قطاع الخدمات المالية وتغيير طبيعة العمل المصرفي التقليدي"
+  },
+  {
+    "id": "special_0205",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "ارتفعت اسعار النفط"
+  },
+  {
+    "id": "special_0206",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "اعلن البنك المركزي عن قرار جديد بشان اسعار الفائدة يهدف الى كبح التضخم"
+  },
+  {
+    "id": "special_0207",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "سجلت البورصة تراجعا في تعاملات الجلسة الافتتاحية اليوم بفعل مخاوف اقتصادية عالمية متصاعدة"
+  },
+  {
+    "id": "special_0208",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "اظهرت بيانات حكومية حديثة نموا في القطاع الصناعي خلال الربع الاخير، وهو ما يعكس تحسنا تدريجيا في مؤشرات الانتاج المحلي رغم التحديات العالمية المستمرة والضغوط التضخمية الاخيرة"
+  },
+  {
+    "id": "special_0209",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "وقعت الحكومة اتفاقية تجارية جديدة مع دولة مجاورة لتعزيز الصادرات"
+  },
+  {
+    "id": "special_0210",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "استقرار اسعار الذهب"
+  },
+  {
+    "id": "special_0211",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "اعلنت شركة اتصالات كبرى عن نتائج مالية ايجابية للربع الثالث من العام الجاري"
+  },
+  {
+    "id": "special_0212",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "كشف تقرير اقتصادي حديث عن تراجع معدلات البطالة للشهر الثالث على التوالي، مدفوعا بانتعاش قطاعي السياحة والخدمات بشكل ملحوظ"
+  },
+  {
+    "id": "special_0213",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "ارتفع سعر صرف العملة المحلية مقابل الدولار في تعاملات اليوم"
+  },
+  {
+    "id": "special_0214",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "اعلنت وزارة التجارة عن حزمة دعم جديدة للمشاريع الصغيرة والمتوسطة تهدف الى تحفيز النمو"
+  },
+  {
+    "id": "special_0215",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "اعلنت هيئة الاستثمار عن جذب استثمارات اجنبية جديدة في قطاع الطاقة المتجددة"
+  },
+  {
+    "id": "special_0216",
+    "broad_genre": "Informative",
+    "specific_genre": "economy_news",
+    "Text": "سجل الميزان التجاري فائضا طفيفا مدفوعا بارتفاع الصادرات الزراعية خلال الموسم الحالي"
+  },
+  {
+    "id": "special_0217",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "مطلوب معلم لغة عربية"
+  },
+  {
+    "id": "special_0218",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "من يمتلك شغفا بالتدريس يمكنه التقدم لوظيفة معلمة رياض اطفال في مدرسة خاصة"
+  },
+  {
+    "id": "special_0219",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "تعلن جامعة عن حاجتها لاستاذ مساعد في قسم الهندسة المدنية لديه خبرة بحثية سابقة"
+  },
+  {
+    "id": "special_0220",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "فرصة عمل لمدرس رياضيات للمرحلة الثانوية، يشترط حصوله على شهادة تربوية معتمدة وخبرة في اعداد المناهج وتنفيذ الاختبارات وفق معايير الوزارة المعتمدة في هذا المجال"
+  },
+  {
+    "id": "special_0221",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "وظيفة مشرف تربوي لمتابعة اداء المعلمين وتقييم العملية التعليمية بشكل دوري"
+  },
+  {
+    "id": "special_0222",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "مطلوب معلم علوم"
+  },
+  {
+    "id": "special_0223",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "انضم الينا كمعلم لغة انجليزية لديه خبرة تدريس دولية في مدرسة معتمدة"
+  },
+  {
+    "id": "special_0224",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "من مهام هذه الوظيفة متابعة الحالات السلوكية لدى الطلاب وتقديم الدعم النفسي اللازم بالتنسيق مع الاهل والمعلمين"
+  },
+  {
+    "id": "special_0225",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "مطلوب معلم تربية فنية للمرحلة الابتدائية بدوام جزئي"
+  },
+  {
+    "id": "special_0226",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "تعلن جهة تعليمية عن حاجتها لمدرب مهني لتقديم دورات تدريبية للكبار في عدة مجالات"
+  },
+  {
+    "id": "special_0227",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "فرصة عمل لمدير مدرسة لديه خبرة في الادارة التربوية والتخطيط الاكاديمي"
+  },
+  {
+    "id": "special_0228",
+    "broad_genre": "Informative",
+    "specific_genre": "education_jobs",
+    "Text": "مطلوب اخصائي مناهج لتطوير المحتوى التعليمي الرقمي للمدارس بالتعاون مع فريق تقني متخصص"
+  },
+  {
+    "id": "special_0229",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "مطلوب مهندس مدني"
+  },
+  {
+    "id": "special_0230",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "من يمتلك خبرة في التصميم المعماري يمكنه التقدم لوظيفة مهندس معماري في شركة مقاولات"
+  },
+  {
+    "id": "special_0231",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "تعلن شركة عن حاجتها لمهندس كهرباء لصيانة الانظمة الكهربائية في المصانع الكبرى"
+  },
+  {
+    "id": "special_0232",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "فرصة عمل لمهندس ميكانيكي متخصص في تصميم الانظمة الصناعية، يشمل العمل الاشراف على خطوط الانتاج وضمان مطابقتها لمعايير السلامة الدولية المعتمدة في هذا القطاع"
+  },
+  {
+    "id": "special_0233",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "مطلوب مهندس برمجيات لتطوير تطبيقات الهاتف المحمول لدى شركة تقنية"
+  },
+  {
+    "id": "special_0234",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "مهندس بترول"
+  },
+  {
+    "id": "special_0235",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "انضم الينا كمهندس شبكات لصيانة البنية التحتية التقنية لمؤسسة حكومية كبيرة"
+  },
+  {
+    "id": "special_0236",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "من مهام هذه الوظيفة تحسين كفاءة خطوط الانتاج في مصنع كبير من خلال تطبيق منهجيات التحسين المستمر وتقليل الهدر التشغيلي"
+  },
+  {
+    "id": "special_0237",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "مطلوب مهندس بيئي لمتابعة معايير الاستدامة في المشاريع الصناعية"
+  },
+  {
+    "id": "special_0238",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "تعلن شركة اتصالات عن حاجتها لمهندس اتصالات لصيانة شبكات الهاتف المحمول في عدة مناطق"
+  },
+  {
+    "id": "special_0239",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "وظيفة مهندس مساحة لاجراء المسوحات الارضية للمشاريع العقارية الجديدة"
+  },
+  {
+    "id": "special_0240",
+    "broad_genre": "Informative",
+    "specific_genre": "engineering_jobs",
+    "Text": "مطلوب مهندس جودة لمراقبة معايير الانتاج والتاكد من مطابقتها للمواصفات الفنية المطلوبة"
+  },
+  {
+    "id": "special_0241",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "كتاب عن التربية"
+  },
+  {
+    "id": "special_0242",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "يقدم هذا الكتاب نصائح عملية للاباء حول كيفية التعامل مع نوبات الغضب لدى الاطفال"
+  },
+  {
+    "id": "special_0243",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "دليل تربوي يشرح مراحل نمو الطفل النفسي والاجتماعي منذ الولادة وحتى المراهقة بأسلوب مبسط"
+  },
+  {
+    "id": "special_0244",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "يستعرض المؤلف في هذا الكتاب اساليب تربوية حديثة للتعامل مع تحديات المراهقة، مع امثلة واقعية تساعد الاهل على بناء حوار صحي مع ابنائهم دون فقدان الثقة المتبادلة بينهم"
+  },
+  {
+    "id": "special_0245",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "دليل عملي للامهات الجدد حول الرعاية الصحية والتغذية السليمة للرضع"
+  },
+  {
+    "id": "special_0246",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "اللعب والذكاء العاطفي"
+  },
+  {
+    "id": "special_0247",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "كتاب يبحث في تاثير الشاشات الالكترونية على تطور مهارات الاطفال الاجتماعية في السنوات الاولى"
+  },
+  {
+    "id": "special_0248",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "يناقش هذا الكتاب كيفية بناء علاقة اسرية متوازنة في ظل ضغوط الحياة العصرية، مقدما نماذج عملية لادارة الوقت بين العمل والالتزامات المنزلية"
+  },
+  {
+    "id": "special_0249",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "دليل للاهل حول التعامل مع صعوبات التعلم لدى ابنائهم بطرق فعالة"
+  },
+  {
+    "id": "special_0250",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "يستعرض المؤلف تجارب عائلات نجحت في تربية ابناء متعددي المواهب رغم ظروف حياتية صعبة"
+  },
+  {
+    "id": "special_0251",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "كتاب يقدم استراتيجيات لتعزيز الثقة بالنفس لدى الاطفال منذ الصغر"
+  },
+  {
+    "id": "special_0252",
+    "broad_genre": "Informative",
+    "specific_genre": "family_children_book_description",
+    "Text": "دراسة تربوية حول اهمية اللعب في تنمية الذكاء العاطفي عند الاطفال وتاثيره على سلوكهم لاحقا"
+  },
+  {
+    "id": "special_0253",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "مطلوب محاسب مالي"
+  },
+  {
+    "id": "special_0254",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "من يمتلك خبرة في المراجعة الداخلية يمكنه التقدم لوظيفة مدقق حسابات لدى شركة كبرى"
+  },
+  {
+    "id": "special_0255",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "تعلن مؤسسة مالية عن حاجتها لمحلل مالي لتقييم اداء الاستثمارات المختلفة بشكل دوري"
+  },
+  {
+    "id": "special_0256",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "فرصة عمل لاخصائي ضرائب يتولى اعداد الاقرارات الضريبية ومتابعة التزامات الشركة، مع ضرورة الالمام الكامل بالانظمة الضريبية المحلية والدولية الحديثة وتحديثاتها المستمرة"
+  },
+  {
+    "id": "special_0257",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "مطلوب امين صندوق للعمل في بنك تجاري يتطلب دقة عالية في التعامل مع النقد"
+  },
+  {
+    "id": "special_0258",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "محاسب رواتب"
+  },
+  {
+    "id": "special_0259",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "انضم الينا كمحاسب تكاليف لديه خبرة في القطاع الصناعي وتحليل هيكل التكاليف"
+  },
+  {
+    "id": "special_0260",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "من مهام هذه الوظيفة الاشراف على الميزانية العمومية وتخطيط التدفقات النقدية للشركة، بالتنسيق المستمر مع الادارة العليا لضمان الاستقرار المالي"
+  },
+  {
+    "id": "special_0261",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "مطلوب محاسب مبيعات لمتابعة فواتير العملاء وتسوية الحسابات"
+  },
+  {
+    "id": "special_0262",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "تعلن شركة استثمارية عن حاجتها لمستشار مالي لتقديم حلول استثمارية مناسبة لمختلف شرائح العملاء"
+  },
+  {
+    "id": "special_0263",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "وظيفة محاسب مخزون لمراجعة حركة البضائع وجرد المستودعات دوريا"
+  },
+  {
+    "id": "special_0264",
+    "broad_genre": "Informative",
+    "specific_genre": "finance_and_accounting_jobs",
+    "Text": "مطلوب موظف تحصيل ديون للتواصل مع العملاء المتاخرين عن السداد ومتابعة ملفاتهم بانتظام"
+  },
+  {
+    "id": "special_0265",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "مطلوب اخصائية تجميل"
+  },
+  {
+    "id": "special_0266",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "من يجيد التعامل مع احدث تقنيات العناية بالبشرة يمكنه الانضمام الى عيادتنا التجميلية"
+  },
+  {
+    "id": "special_0267",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "تعلن صالونات التجميل عن حاجتها لمصفف شعر لديه خبرة في القص والتصفيف الحديث"
+  },
+  {
+    "id": "special_0268",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "فرصة عمل لاخصائية مكياج للعمل في مركز تجميل خلال موسم حفلات الزفاف، مع القدرة على تنفيذ اطلالات متنوعة تناسب مختلف المناسبات والاذواق المتباينة للعميلات"
+  },
+  {
+    "id": "special_0269",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "مطلوب فني تدليك علاجي للعمل في منتجع صحي فاخر"
+  },
+  {
+    "id": "special_0270",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "اخصائي عناية بالاظافر"
+  },
+  {
+    "id": "special_0271",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "انضم الينا كمدرب لياقة بدنية شخصي للعمل في ناد صحي رياضي معروف"
+  },
+  {
+    "id": "special_0272",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "من مهام هذه الوظيفة تقديم استشارات للعملاء حول اختيار العطور المناسبة لكل شخصية، مع متابعة مستمرة لتفضيلاتهم واذواقهم المختلفة"
+  },
+  {
+    "id": "special_0273",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "مطلوب اخصائية ازالة الشعر بالليزر في مركز طبي تجميلي"
+  },
+  {
+    "id": "special_0274",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "تعلن شركة مستحضرات تجميل عن حاجتها لمندوب مبيعات ميداني لتغطية عدة مناطق"
+  },
+  {
+    "id": "special_0275",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "وظيفة مستقبلة لتنظيم مواعيد العميلات في صالون تجميل مزدحم"
+  },
+  {
+    "id": "special_0276",
+    "broad_genre": "Informative",
+    "specific_genre": "health_and_beauty_jobs",
+    "Text": "مطلوب اخصائي تغذية للعمل ضمن برنامج انقاص الوزن في مركز صحي معتمد"
+  },
+  {
+    "id": "special_0277",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "مطلوب ممرضة طوارئ"
+  },
+  {
+    "id": "special_0278",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "من يمتلك خبرة سابقة في طب الاسنان يمكنه التقدم لوظيفة شاغرة في عيادة خاصة"
+  },
+  {
+    "id": "special_0279",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "تعلن مستشفى خاصة عن حاجتها لطبيب اطفال للعمل بدوام كامل ضمن فريق طبي متكامل"
+  },
+  {
+    "id": "special_0280",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "فرصة عمل لاخصائي علاج طبيعي للعمل مع مرضى ما بعد العمليات الجراحية، مع الالتزام بوضع خطط تاهيل مناسبة لكل حالة على حدة بالتنسيق مع الفريق الطبي المعالج"
+  },
+  {
+    "id": "special_0281",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "مطلوب فني مختبر طبي لاجراء التحاليل وتفسير النتائج الاولية"
+  },
+  {
+    "id": "special_0282",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "مسعف ميداني"
+  },
+  {
+    "id": "special_0283",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "انضم الينا كأخصائي اشعة لتشغيل اجهزة التصوير الطبي وتفسير الصور بدقة"
+  },
+  {
+    "id": "special_0284",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "من مهام هذه الوظيفة متابعة حالات مرضى السكري من الناحية الغذائية، ووضع خطط غذائية شخصية بالتعاون مع الطبيب المعالج"
+  },
+  {
+    "id": "special_0285",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "مطلوب ممرض تخدير للمشاركة في العمليات الجراحية الكبرى"
+  },
+  {
+    "id": "special_0286",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "تعلن جهة صحية عن حاجتها لطبيب عام للعمل في مركز رعاية صحية اولية بمنطقة نائية"
+  },
+  {
+    "id": "special_0287",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "وظيفة فني اسنان لمساعدة الطبيب في العمليات وتحضير الادوات"
+  },
+  {
+    "id": "special_0288",
+    "broad_genre": "Informative",
+    "specific_genre": "healthcare_jobs",
+    "Text": "مطلوب صيدلي للعمل في صيدلية داخل مجمع طبي كبير بنظام ورديات مرن"
+  },
+  {
+    "id": "special_0289",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "الحضارة البابلية"
+  },
+  {
+    "id": "special_0290",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "تعد الدولة الاموية اول كيان سياسي اسلامي اتخذ من دمشق عاصمة له"
+  },
+  {
+    "id": "special_0291",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "ساهمت طرق التجارة القديمة مثل طريق الحرير في تبادل الثقافات بين الشرق والغرب لقرون طويلة"
+  },
+  {
+    "id": "special_0292",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "شكلت الحروب الصليبية سلسلة من الصراعات العسكرية بين اوروبا المسيحية والعالم الاسلامي، امتدت لعدة قرون وتركت اثرا عميقا على العلاقات بين الحضارتين حتى يومنا هذا"
+  },
+  {
+    "id": "special_0293",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "عرفت الحضارة الفرعونية ببناء الاهرامات كمقابر ملكية ضخمة تعكس تطور العمارة القديمة"
+  },
+  {
+    "id": "special_0294",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "سقوط الاندلس"
+  },
+  {
+    "id": "special_0295",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "تميزت الدولة العباسية بازدهار حركة الترجمة ونقل العلوم اليونانية والفارسية الى العربية"
+  },
+  {
+    "id": "special_0296",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "اسهمت الفتوحات الاسلامية في نشر اللغة العربية والدين الاسلامي عبر مناطق واسعة من اسيا وافريقيا، مما ادى الى تشكل هوية ثقافية مشتركة بين شعوب متعددة"
+  },
+  {
+    "id": "special_0297",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "شهد القرن العشرون حربين عالميتين غيرتا خريطة النظام الدولي بشكل جذري"
+  },
+  {
+    "id": "special_0298",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "تعد معاهدة وستفاليا نقطة تاسيسية لمفهوم الدولة القومية الحديثة في اوروبا"
+  },
+  {
+    "id": "special_0299",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "عرفت الحضارة الفينيقية بريادتها في التجارة البحرية واختراع الابجدية التي انتشرت لاحقا في العالم القديم"
+  },
+  {
+    "id": "special_0300",
+    "broad_genre": "Informative",
+    "specific_genre": "history_encyclopedia",
+    "Text": "ادى سقوط الاندلس الى نهاية حقبة طويلة من التعايش الحضاري في شبه الجزيرة الايبيرية"
+  },
+  {
+    "id": "special_0301",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "كتاب عن تاريخ القدس"
+  },
+  {
+    "id": "special_0302",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "يستعرض هذا الكتاب تاريخ مدينة القدس عبر العصور المختلفة وتحولاتها الحضارية"
+  },
+  {
+    "id": "special_0303",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "دراسة جغرافية تاريخية تتناول اثر الانهار في نشاة الحضارات القديمة حول العالم"
+  },
+  {
+    "id": "special_0304",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "يقدم المؤلف قراءة شاملة لتاريخ الخليج العربي، مستعرضا التحولات السياسية والاقتصادية التي شهدتها المنطقة منذ عصور ما قبل النفط وحتى العصر الحديث، مع تركيز خاص على التغيرات الاجتماعية"
+  },
+  {
+    "id": "special_0305",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "كتاب يبحث في تاريخ الطرق التجارية القديمة واثرها على تشكيل المدن"
+  },
+  {
+    "id": "special_0306",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "الاستعمار في افريقيا"
+  },
+  {
+    "id": "special_0307",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "دراسة تتناول الجغرافيا السياسية لمنطقة الشرق الاوسط وتاثيرها على الصراعات المعاصرة"
+  },
+  {
+    "id": "special_0308",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "يستعرض الكتاب تاريخ الاستعمار الاوروبي في افريقيا وتاثيره على الحدود الحالية للدول، مع تحليل معمق لتداعيات هذا الارث الاستعماري على السياسات الوطنية"
+  },
+  {
+    "id": "special_0309",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "كتاب يوثق تاريخ الممالك العربية القديمة في جنوب الجزيرة العربية"
+  },
+  {
+    "id": "special_0310",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "دراسة جغرافية تتناول التغيرات المناخية واثرها على الهجرات البشرية القديمة عبر العصور"
+  },
+  {
+    "id": "special_0311",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "يقدم المؤلف سردا تاريخيا لتطور المدن الساحلية وعلاقتها بالملاحة البحرية"
+  },
+  {
+    "id": "special_0312",
+    "broad_genre": "Informative",
+    "specific_genre": "history_geography_book_description",
+    "Text": "كتاب يستعرض تاريخ الحدود السياسية في المنطقة العربية بعد الحرب العالمية الاولى وتاثيرها على الجغرافيا السياسية الحالية"
+  },
+  {
+    "id": "special_0313",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "مطلوب اخصائي موارد بشرية"
+  },
+  {
+    "id": "special_0314",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "من يمتلك مهارات تواصل عالية يمكنه التقدم لوظيفة منسق شؤون موظفين لدينا"
+  },
+  {
+    "id": "special_0315",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "تعلن مؤسسة عن حاجتها لاخصائي استقطاب مواهب للبحث عن الكفاءات المناسبة لمختلف الاقسام"
+  },
+  {
+    "id": "special_0316",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "فرصة عمل لأخصائي تعويضات ومزايا يتولى مراجعة هيكل الرواتب، مع ضمان توافقه مع معايير السوق ومتطلبات الاحتفاظ بالكفاءات المتميزة داخل المؤسسة على المدى الطويل"
+  },
+  {
+    "id": "special_0317",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "مطلوب موظف علاقات عمالية لمتابعة شكاوى الموظفين وحل النزاعات الداخلية"
+  },
+  {
+    "id": "special_0318",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "مدرب تنمية بشرية"
+  },
+  {
+    "id": "special_0319",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "انضم الينا كأخصائي تقييم اداء لتصميم نظام تقييم سنوي شامل للموظفين"
+  },
+  {
+    "id": "special_0320",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "من مهام هذه الوظيفة تطوير سياسات العمل الداخلية وتعزيز ثقافة مؤسسية ايجابية تدعم الاحتفاظ بالموظفين وتحسن من انتاجيتهم"
+  },
+  {
+    "id": "special_0321",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "مطلوب مسؤول توظيف لاجراء المقابلات الاولية مع المتقدمين للوظائف"
+  },
+  {
+    "id": "special_0322",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "تعلن شركة عن حاجتها لأخصائي رفاهية الموظفين لتصميم برامج دعم الصحة النفسية في مكان العمل"
+  },
+  {
+    "id": "special_0323",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "وظيفة منسق تدريب لتنظيم البرامج التطويرية للموظفين الجدد والقدامى"
+  },
+  {
+    "id": "special_0324",
+    "broad_genre": "Informative",
+    "specific_genre": "human_resources_jobs",
+    "Text": "مطلوب مدير موارد بشرية لتطوير سياسات العمل الداخلية بما يتناسب مع نمو الشركة المستمر"
+  },
+  {
+    "id": "special_0325",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "مطلوب مبرمج تطبيقات ويب"
+  },
+  {
+    "id": "special_0326",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "من يتقن لغات البرمجة الحديثة مثل جافاسكريبت وبايثون يمكنه التقدم لهذه الوظيفة"
+  },
+  {
+    "id": "special_0327",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "تعلن شركة تقنية عن حاجتها لمهندس امن سيبراني لحماية الانظمة من الاختراقات المتزايدة"
+  },
+  {
+    "id": "special_0328",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "فرصة عمل لمهندس شبكات لصيانة وتطوير البنية التحتية التقنية للشركة، مع متابعة اداء الخوادم وضمان استمرارية الخدمة على مدار الساعة طوال ايام الاسبوع"
+  },
+  {
+    "id": "special_0329",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "مطلوب محلل بيانات يتقن ادوات التحليل الاحصائي وتصور البيانات"
+  },
+  {
+    "id": "special_0330",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "مطور تطبيقات جوال"
+  },
+  {
+    "id": "special_0331",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "انضم الينا كمهندس ذكاء اصطناعي لتطوير نماذج تعلم الة متقدمة"
+  },
+  {
+    "id": "special_0332",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "من مهام هذه الوظيفة ادارة وصيانة انظمة تخزين المعلومات، مع التاكد من امن البيانات وسلامتها بشكل دوري ومستمر"
+  },
+  {
+    "id": "special_0333",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "مطلوب فني دعم تقني لحل المشكلات التقنية للموظفين داخل الشركة"
+  },
+  {
+    "id": "special_0334",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "تعلن جهة حكومية عن حاجتها لمختص امن معلومات لحماية البيانات الحساسة من التهديدات الرقمية"
+  },
+  {
+    "id": "special_0335",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "وظيفة مصمم واجهات مستخدم لتطوير تجربة استخدام سلسة للتطبيقات"
+  },
+  {
+    "id": "special_0336",
+    "broad_genre": "Informative",
+    "specific_genre": "information_technology_jobs",
+    "Text": "مطلوب مهندس اختبار برمجيات لضمان جودة المنتجات التقنية قبل الاطلاق النهائي للمستخدمين"
+  },
+  {
+    "id": "special_0337",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "قمة طارئة لبحث النزاع"
+  },
+  {
+    "id": "special_0338",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "اعلنت الامم المتحدة عن ارسال بعثة انسانية جديدة الى المناطق المتضررة من النزاع"
+  },
+  {
+    "id": "special_0339",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "فرضت دولة كبرى عقوبات اقتصادية جديدة على دولة اخرى اثر تصعيد دبلوماسي متزايد بينهما"
+  },
+  {
+    "id": "special_0340",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "وقعت دولتان اتفاقية تعاون استراتيجي تشمل مجالات الامن والاقتصاد والطاقة، في خطوة وصفها مراقبون بانها تعزز التوازن الاقليمي وسط تنافس دولي متصاعد على النفوذ في المنطقة"
+  },
+  {
+    "id": "special_0341",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "اجرت وزيرة الخارجية زيارة رسمية لعدة دول لبحث ملفات التعاون المشترك"
+  },
+  {
+    "id": "special_0342",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "هدنة مؤقتة برعاية دولية"
+  },
+  {
+    "id": "special_0343",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "تصاعدت التوترات الحدودية بين دولتين مجاورتين اثر اشتباكات محدودة وقعت الاسبوع الماضي"
+  },
+  {
+    "id": "special_0344",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "اعلن مجلس الامن الدولي عن جلسة طارئة لمناقشة الوضع الانساني المتدهور في المنطقة، بعد وصول تقارير تفيد بتفاقم ازمة النزوح بشكل خطير"
+  },
+  {
+    "id": "special_0345",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "ادانت عدة دول الهجوم الاخير ودعت الى وقف فوري لاطلاق النار"
+  },
+  {
+    "id": "special_0346",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "اعلنت منظمة دولية عن تقديم مساعدات غذائية عاجلة للاجئين في المنطقة"
+  },
+  {
+    "id": "special_0347",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "استقبلت العاصمة وفدا دبلوماسيا رفيع المستوى لبحث ملفات التعاون الثنائي"
+  },
+  {
+    "id": "special_0348",
+    "broad_genre": "Informative",
+    "specific_genre": "international_news",
+    "Text": "شهدت العلاقات بين الدولتين تحسنا ملحوظا بعد استئناف المفاوضات التجارية المتوقفة منذ اشهر"
+  },
+  {
+    "id": "special_0349",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "كتاب عن العقيدة الاسلامية"
+  },
+  {
+    "id": "special_0350",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "يتناول هذا الكتاب اصول العقيدة الاسلامية واركانها الاساسية باسلوب مبسط"
+  },
+  {
+    "id": "special_0351",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "دراسة تشرح مقاصد الشريعة الاسلامية واثرها على التشريعات المعاصرة في المجتمعات المسلمة"
+  },
+  {
+    "id": "special_0352",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "يقدم المؤلف في هذا العمل قراءة معاصرة لمفهوم الاخلاق في الاسلام، مستندا الى نصوص القران والسنة، مع ربط هذه المفاهيم بتحديات الحياة اليومية للمسلم المعاصر في عالم سريع التغير"
+  },
+  {
+    "id": "special_0353",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "كتاب يناقش احكام الزكاة واثرها الاجتماعي في الحد من الفقر"
+  },
+  {
+    "id": "special_0354",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "قصص الانبياء"
+  },
+  {
+    "id": "special_0355",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "دراسة فقهية تتناول احكام المعاملات المالية في الشريعة الاسلامية بشكل مفصل"
+  },
+  {
+    "id": "special_0356",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "يستعرض الكتاب سيرة النبي محمد صلى الله عليه وسلم منذ ولادته وحتى وفاته، مع التركيز على المحطات المفصلية التي شكلت مسار الدعوة الاسلامية"
+  },
+  {
+    "id": "special_0357",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "كتاب يبحث في مفهوم التصوف الاسلامي واثره الروحي على الفرد والمجتمع"
+  },
+  {
+    "id": "special_0358",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "دراسة تتناول احكام الصيام وحكمته الروحية والصحية في الاسلام"
+  },
+  {
+    "id": "special_0359",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "يقدم المؤلف شرحا مبسطا لاركان الاسلام الخمسة واهميتها العملية"
+  },
+  {
+    "id": "special_0360",
+    "broad_genre": "Informative",
+    "specific_genre": "islamic_book_description",
+    "Text": "كتاب يناقش دور المراة في الاسلام من خلال نصوص القران والسنة وتطبيقاتها في الحياة المعاصرة"
+  },
+  {
+    "id": "special_0361",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "كتاب عن تاريخ الصحافة"
+  },
+  {
+    "id": "special_0362",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "يستعرض هذا الكتاب تطور الصحافة العربية منذ نشاتها وحتى العصر الرقمي"
+  },
+  {
+    "id": "special_0363",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "دراسة تتناول اخلاقيات المهنة الصحفية في ظل انتشار الاخبار الزائفة بشكل متزايد"
+  },
+  {
+    "id": "special_0364",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "يقدم المؤلف في هذا الكتاب تحليلا معمقا لدور الاعلام في تغطية الازمات والحروب، مستعرضا تجارب صحفيين عملوا في مناطق النزاع وتحدياتهم المهنية والاخلاقية اثناء عملهم الميداني"
+  },
+  {
+    "id": "special_0365",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "كتاب يبحث في تاثير وسائل التواصل الاجتماعي على تشكيل الراي العام"
+  },
+  {
+    "id": "special_0366",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "مستقبل الصحافة المطبوعة"
+  },
+  {
+    "id": "special_0367",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "دراسة تتناول دور الاعلام في تشكيل الهوية الوطنية خلال فترات التحول السياسي"
+  },
+  {
+    "id": "special_0368",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "يستعرض الكتاب تجربة القنوات الفضائية العربية واثرها على المشهد الاعلامي، مع مقارنة بين مراحل التطور المختلفة التي مرت بها هذه الصناعة منذ نشاتها"
+  },
+  {
+    "id": "special_0369",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "كتاب يبحث في تقنيات الاخراج الصحفي وتاثيرها على استقبال الجمهور للمحتوى"
+  },
+  {
+    "id": "special_0370",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "دراسة تناقش دور البودكاست كوسيلة اعلامية جديدة في الوطن العربي"
+  },
+  {
+    "id": "special_0371",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "يقدم المؤلف نظرة نقدية لحرية الصحافة في المنطقة العربية وتحدياتها"
+  },
+  {
+    "id": "special_0372",
+    "broad_genre": "Informative",
+    "specific_genre": "journalism_media_book_description",
+    "Text": "كتاب يستعرض تاريخ الاذاعة العربية ودورها في التواصل الجماهيري عبر العقود المختلفة"
+  },
+  {
+    "id": "special_0373",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "مطلوب محام"
+  },
+  {
+    "id": "special_0374",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "من يمتلك خبرة في قضايا الشركات يمكنه الانضمام الى فريقنا القانوني المتخصص"
+  },
+  {
+    "id": "special_0375",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "تعلن مكتب محاماة عن حاجته لمساعد قانوني لاعداد المذكرات والمرافعات القانونية"
+  },
+  {
+    "id": "special_0376",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "فرصة عمل لمحام متخصص في قضايا العمل، يتولى تمثيل الشركة امام المحاكم العمالية ومتابعة النزاعات مع الموظفين وفق الانظمة السارية، مع التنسيق المستمر مع الادارة القانونية"
+  },
+  {
+    "id": "special_0377",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "مطلوب كاتب عدل للعمل في مكتب توثيق حكومي"
+  },
+  {
+    "id": "special_0378",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "مستشار قانوني"
+  },
+  {
+    "id": "special_0379",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "انضم الينا كمترجم قانوني لديه الملام بالمصطلحات القانونية في اكثر من لغة"
+  },
+  {
+    "id": "special_0380",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "من مهام هذه الوظيفة متابعة تنفيذ الاحكام القضائية والتنسيق مع الجهات المختصة لضمان تطبيقها بشكل صحيح وفي الوقت المناسب"
+  },
+  {
+    "id": "special_0381",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "مطلوب محام متخصص في قضايا الاحوال الشخصية والميراث"
+  },
+  {
+    "id": "special_0382",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "تعلن شركة عن حاجتها لمدقق امتثال قانوني لمتابعة تطبيق الانظمة الحكومية داخل المؤسسة"
+  },
+  {
+    "id": "special_0383",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "وظيفة سكرتير قانوني لتنظيم ملفات القضايا وجدولة الجلسات"
+  },
+  {
+    "id": "special_0384",
+    "broad_genre": "Informative",
+    "specific_genre": "law_and_legal_services_jobs",
+    "Text": "مطلوب محام متخصص في الملكية الفكرية لمتابعة تسجيل العلامات التجارية للشركات الناشئة"
+  },
+  {
+    "id": "special_0385",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "رواية عن الهوية"
+  },
+  {
+    "id": "special_0386",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "تدور احداث هذه الرواية حول شاب يبحث عن هويته وسط تحولات مجتمعه"
+  },
+  {
+    "id": "special_0387",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "رواية تروي قصة عائلة تمتد احداثها عبر ثلاثة اجيال في مدينة ساحلية هادئة"
+  },
+  {
+    "id": "special_0388",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "تستعرض الرواية رحلة بطلها من مدينته الصغيرة الى العاصمة بحثا عن حلم مهني، وسط صراعات داخلية تتعلق بالهوية والانتماء والقيم الموروثة التي تشكلت في طفولته"
+  },
+  {
+    "id": "special_0389",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "رواية بوليسية تتبع محققا يحاول كشف لغز جريمة غامضة في حي قديم"
+  },
+  {
+    "id": "special_0390",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "الغربة والاغتراب"
+  },
+  {
+    "id": "special_0391",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "عمل ادبي يستعرض حياة امراة تتحدى التقاليد الاجتماعية لتحقيق استقلاليتها"
+  },
+  {
+    "id": "special_0392",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "رواية تاريخية تعيد سرد احداث حقبة مضطربة من خلال عيون شخصية خيالية، تعيش صراعا داخليا بين الولاء لعائلتها والانتماء لقضية اكبر"
+  },
+  {
+    "id": "special_0393",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "تتناول الرواية موضوع الغربة والاغتراب النفسي لمهاجر يعيش بين ثقافتين مختلفتين"
+  },
+  {
+    "id": "special_0394",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "عمل ادبي يجمع بين الواقعية السحرية والتراث الشعبي في قرية نائية"
+  },
+  {
+    "id": "special_0395",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "رواية تستكشف علاقة اب وابنه المتوترة في ظل ضغوط الحياة اليومية"
+  },
+  {
+    "id": "special_0396",
+    "broad_genre": "Informative",
+    "specific_genre": "literature_fiction_book_description",
+    "Text": "عمل خيالي يدور في مستقبل بعيد يناقش قضايا التكنولوجيا والانسانية في عالم تغيرت فيه كل الموازين"
+  },
+  {
+    "id": "special_0397",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "مشروع تطوير الطرق"
+  },
+  {
+    "id": "special_0398",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "اعلنت البلدية عن حملة تفتيشية على المحلات التجارية غير الملتزمة بالاشتراطات الصحية"
+  },
+  {
+    "id": "special_0399",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "شهد الحي السكني انقطاعا مؤقتا في المياه بسبب اعمال صيانة الشبكة الرئيسية"
+  },
+  {
+    "id": "special_0400",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "اقامت الجهات المحلية فعالية توعوية حول السلامة المرورية استهدفت طلاب المدارس، بمشاركة عدد من المتطوعين والجهات الامنية المختصة في المنطقة على مدى ثلاثة ايام متتالية"
+  },
+  {
+    "id": "special_0401",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "افتتح مركز صحي جديد في الحي الجنوبي لخدمة سكان المنطقة"
+  },
+  {
+    "id": "special_0402",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "اغلاق شارع رئيسي"
+  },
+  {
+    "id": "special_0403",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "نظمت الجمعية الخيرية حملة توزيع مساعدات للاسر المحتاجة في المنطقة قبل بدء الشتاء"
+  },
+  {
+    "id": "special_0404",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "شهدت المدينة ازدحاما مروريا كبيرا بسبب حادث تصادم على الطريق السريع، ما اضطر السلطات الى تحويل حركة المرور الى طرق بديلة لعدة ساعات"
+  },
+  {
+    "id": "special_0405",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "اعلنت ادارة المياه عن جدول جديد للصيانة الدورية في عدة احياء"
+  },
+  {
+    "id": "special_0406",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "افتتحت حديقة عامة جديدة تضم مرافق ترفيهية للاطفال والعائلات"
+  },
+  {
+    "id": "special_0407",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "اقامت البلدية سوقا شعبيا اسبوعيا لدعم صغار التجار المحليين"
+  },
+  {
+    "id": "special_0408",
+    "broad_genre": "Informative",
+    "specific_genre": "local_news",
+    "Text": "اعلنت الجهات المختصة عن ضبط مخالفات بناء في عدد من المشاريع السكنية داخل المدينة"
+  },
+  {
+    "id": "special_0409",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "مطلوب عامل انتاج"
+  },
+  {
+    "id": "special_0410",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "من يمتلك خبرة في ادارة المخزون يمكنه التقدم لوظيفة امين مخزن لدينا"
+  },
+  {
+    "id": "special_0411",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "تعلن شركة بيع بالتجزئة عن حاجتها لأمين مخزن لادارة حركة البضائع بدقة عالية"
+  },
+  {
+    "id": "special_0412",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "فرصة عمل لبائع في متجر ملابس، يشترط لباقة في التعامل مع الزبائن وخبرة سابقة في المبيعات، مع القدرة على تحقيق اهداف البيع الشهرية والتعامل مع مختلف انواع العملاء"
+  },
+  {
+    "id": "special_0413",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "مطلوب فني صيانة الات في مصنع نسيج كبير"
+  },
+  {
+    "id": "special_0414",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "مصمم عرض واجهات"
+  },
+  {
+    "id": "special_0415",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "انضم الينا كمراقب جودة لفحص المنتجات قبل تعبئتها وشحنها للاسواق"
+  },
+  {
+    "id": "special_0416",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "من مهام هذه الوظيفة الاشراف على فريق المبيعات ومتابعة المخزون في فرع تجاري جديد، مع ضمان تحقيق اهداف البيع الشهرية المحددة من الادارة العليا"
+  },
+  {
+    "id": "special_0417",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "مطلوب عامل تعبئة وتغليف للعمل في مصنع مستحضرات تجميل"
+  },
+  {
+    "id": "special_0418",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "تعلن شركة صناعية عن حاجتها لمشغل رافعة شوكية لنقل البضائع داخل المستودع"
+  },
+  {
+    "id": "special_0419",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "وظيفة عامل خط انتاج للعمل بنظام الورديات في مصنع بلاستيك"
+  },
+  {
+    "id": "special_0420",
+    "broad_genre": "Informative",
+    "specific_genre": "manufacturing_and_retail_jobs",
+    "Text": "مطلوب مشرف انتاج لمتابعة جودة المنتجات في مصنع مواد غذائية على مدار اليوم"
+  },
+  {
+    "id": "special_0421",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "مطلوب أخصائي تسويق رقمي"
+  },
+  {
+    "id": "special_0422",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "من يجيد ادارة حملات الاعلانات عبر منصات التواصل الاجتماعي يمكنه التقدم لهذه الوظيفة"
+  },
+  {
+    "id": "special_0423",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "تعلن شركة عن حاجتها لمدير علامة تجارية لتطوير استراتيجية الهوية البصرية للمنتجات"
+  },
+  {
+    "id": "special_0424",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "فرصة عمل لمحلل تسويقي يتولى دراسة سلوك المستهلك وتحليل بيانات السوق، بهدف تطوير حملات تسويقية اكثر دقة واستهدافا للفئات المناسبة من العملاء المحتملين"
+  },
+  {
+    "id": "special_0425",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "مطلوب مصور منتجات للعمل ضمن فريق التسويق الرقمي لشركة تجارية"
+  },
+  {
+    "id": "special_0426",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "أخصائي علاقات عامة"
+  },
+  {
+    "id": "special_0427",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "انضم الينا كأخصائي تسويق عبر البريد الالكتروني لادارة الحملات الترويجية المختلفة"
+  },
+  {
+    "id": "special_0428",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "من مهام هذه الوظيفة تنظيم المعارض التجارية والمؤتمرات، والتنسيق مع الجهات الراعية والمشاركين لضمان نجاح الفعالية"
+  },
+  {
+    "id": "special_0429",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "مطلوب مصمم اعلانات مرئية للعمل ضمن وكالة دعاية واعلان"
+  },
+  {
+    "id": "special_0430",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "تعلن شركة عن حاجتها لأخصائي تحسين محركات البحث لتطوير ظهور الموقع الالكتروني"
+  },
+  {
+    "id": "special_0431",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "وظيفة أخصائي ابحاث سوق لجمع وتحليل بيانات المنافسين والعملاء"
+  },
+  {
+    "id": "special_0432",
+    "broad_genre": "Informative",
+    "specific_genre": "marketing_jobs",
+    "Text": "مطلوب مدير تسويق لوضع خطة اطلاق منتج جديد في شركة ناشئة سريعة النمو"
+  },
+  {
+    "id": "special_0433",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "نظرية فيثاغورس"
+  },
+  {
+    "id": "special_0434",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "يشير مفهوم العدد الاولي الى كل عدد طبيعي اكبر من واحد لا يقبل القسمة الا على نفسه وعلى واحد"
+  },
+  {
+    "id": "special_0435",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "تستخدم المعادلات التفاضلية لوصف التغيرات المستمرة في الظواهر الطبيعية والفيزيائية المختلفة"
+  },
+  {
+    "id": "special_0436",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "يعتمد مفهوم الاحتمالات على قياس امكانية وقوع حدث معين ضمن مجموعة من النتائج الممكنة، وتستخدم هذه المفاهيم على نطاق واسع في الاحصاء واتخاذ القرار وتحليل المخاطر في شتى المجالات"
+  },
+  {
+    "id": "special_0437",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "يعد الرقم صفر من اهم الاكتشافات الرياضية التي مكنت من تطور النظام العددي الحديث"
+  },
+  {
+    "id": "special_0438",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "الدالة الاسية"
+  },
+  {
+    "id": "special_0439",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "تصف الهندسة التحليلية العلاقة بين الجبر والاشكال الهندسية باستخدام نظام الاحداثيات"
+  },
+  {
+    "id": "special_0440",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "يوضح مبدا الاستقراء الرياضي كيفية اثبات صحة قاعدة عامة لجميع الاعداد الطبيعية، وهو اداة اساسية يستخدمها الرياضيون في اثبات النظريات"
+  },
+  {
+    "id": "special_0441",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "تستخدم المصفوفات في الرياضيات لتمثيل وحل مجموعات كبيرة من المعادلات الخطية"
+  },
+  {
+    "id": "special_0442",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "يشرح هذا الفرع من الرياضيات مفهوم التفاضل والتكامل وتطبيقاته في حساب المساحات والمعدلات"
+  },
+  {
+    "id": "special_0443",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "تستخدم نظرية الاعداد لدراسة خصائص الاعداد الصحيحة وعلاقاتها فيما بينها"
+  },
+  {
+    "id": "special_0444",
+    "broad_genre": "Informative",
+    "specific_genre": "math_encyclopedia",
+    "Text": "يشير مفهوم النهايات في التفاضل الى القيمة التي تقترب منها دالة معينة عند اقتراب المتغير من قيمة محددة"
+  },
+  {
+    "id": "special_0445",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "مطلوب مصمم جرافيك"
+  },
+  {
+    "id": "special_0446",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "من يمتلك خبرة في المونتاج الاحترافي يمكنه التقدم لوظيفة محرر فيديو لدينا"
+  },
+  {
+    "id": "special_0447",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "تعلن شركة انتاج عن حاجتها لمصور فيديو لتغطية الفعاليات والمناسبات المختلفة"
+  },
+  {
+    "id": "special_0448",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "فرصة عمل لمصمم واجهات مستخدم يتولى تطوير تجربة بصرية جذابة للتطبيقات، مع التركيز على سهولة الاستخدام وتناسق الالوان والخطوط بما يتناسب مع هوية العلامة التجارية"
+  },
+  {
+    "id": "special_0449",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "مطلوب مخرج فني للاشراف على انتاج الاعلانات التجارية"
+  },
+  {
+    "id": "special_0450",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "مصمم رسوم متحركة"
+  },
+  {
+    "id": "special_0451",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "انضم الينا كمصمم شعارات وهويات بصرية للشركات الناشئة والمؤسسات الكبرى"
+  },
+  {
+    "id": "special_0452",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "من مهام هذه الوظيفة ضبط جودة البث المباشر لقناة اعلامية، مع الاشراف على الفريق التقني للتاكد من سلامة الاجهزة قبل كل بث"
+  },
+  {
+    "id": "special_0453",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "مطلوب فني اضاءة للعمل في استوديوهات التصوير التلفزيوني"
+  },
+  {
+    "id": "special_0454",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "تعلن استوديو تصميم عن حاجتها لمصمم طباعة لاعداد المطبوعات الدعائية والكتيبات التعريفية"
+  },
+  {
+    "id": "special_0455",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "وظيفة مصمم مواقع الكترونية للعمل ضمن فريق تطوير رقمي"
+  },
+  {
+    "id": "special_0456",
+    "broad_genre": "Informative",
+    "specific_genre": "media_and_design_jobs",
+    "Text": "مطلوب مصور فوتوغرافي للعمل مع فريق تسويقي في تصوير المنتجات لعدة علامات تجارية"
+  },
+  {
+    "id": "special_0457",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "كتاب عن الفكر الوجودي"
+  },
+  {
+    "id": "special_0458",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "يتناول هذا الكتاب مفهوم الحرية الفردية وحدودها في الفكر الفلسفي الغربي"
+  },
+  {
+    "id": "special_0459",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "دراسة فلسفية تبحث في طبيعة الوعي والعلاقة بين العقل والجسد بأسلوب تحليلي عميق"
+  },
+  {
+    "id": "special_0460",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "يقدم المؤلف في هذا العمل قراءة نقدية لمفهوم العدالة عند افلاطون، ويربطها بالنقاشات المعاصرة حول توزيع الثروة والسلطة داخل المجتمعات الحديثة والانظمة السياسية القائمة"
+  },
+  {
+    "id": "special_0461",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "كتاب يناقش العلاقة بين الاخلاق والدين في الفلسفة الاسلامية الكلاسيكية"
+  },
+  {
+    "id": "special_0462",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "مفهوم الزمن"
+  },
+  {
+    "id": "special_0463",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "دراسة تتناول مفهوم الحقيقة وتعدد تفسيراته عبر تاريخ الفلسفة الغربية والشرقية"
+  },
+  {
+    "id": "special_0464",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "يستعرض الكتاب افكار نيتشه حول ارادة القوة واثرها على الفكر الحديث، مع مقارنة بينها وبين افكار فلاسفة سابقين تناولوا نفس القضية"
+  },
+  {
+    "id": "special_0465",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "كتاب يبحث في العلاقة بين المنطق والعلم في تشكيل المعرفة الانسانية"
+  },
+  {
+    "id": "special_0466",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "يقدم المؤلف مقارنة بين الفلسفة الشرقية والغربية في مفهوم الذات"
+  },
+  {
+    "id": "special_0467",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "كتاب يستعرض جدلية العقل والنقل في تاريخ الفكر الفلسفي الاسلامي"
+  },
+  {
+    "id": "special_0468",
+    "broad_genre": "Informative",
+    "specific_genre": "philosophy_book_description",
+    "Text": "دراسة فلسفية تناقش مفهوم السعادة عند الفلاسفة اليونانيين القدامى وتاثيره على الفكر اللاحق"
+  },
+  {
+    "id": "special_0469",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "كتاب عن الديمقراطية"
+  },
+  {
+    "id": "special_0470",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "يستعرض هذا الكتاب تطور الانظمة السياسية العربية بعد موجات الاستقلال"
+  },
+  {
+    "id": "special_0471",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "دراسة تحليلية تتناول اسباب الثورات الشعبية وتداعياتها على الاستقرار الاقليمي في المنطقة"
+  },
+  {
+    "id": "special_0472",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "يقدم المؤلف في هذا الكتاب تحليلا معمقا للعلاقة بين الدولة والمجتمع المدني، مستعرضا نماذج من تجارب دولية نجحت في تحقيق توازن بين السلطة والحريات العامة على مدى عقود"
+  },
+  {
+    "id": "special_0473",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "كتاب يناقش تاثير الايديولوجيات القومية على تشكيل الدول الحديثة"
+  },
+  {
+    "id": "special_0474",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "ازمة الشرعية السياسية"
+  },
+  {
+    "id": "special_0475",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "يستعرض الكتاب تاريخ الحركات الاصلاحية في العالم الاسلامي الحديث وابرز روادها"
+  },
+  {
+    "id": "special_0476",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "دراسة سياسية تتناول اثر الاعلام على تشكيل الراي العام في الانتخابات، مع تحليل لدور المنصات الرقمية في تشكيل هذا التاثير خلال العقد الاخير"
+  },
+  {
+    "id": "special_0477",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "كتاب يبحث في مفهوم السيادة الوطنية في ظل العولمة الاقتصادية"
+  },
+  {
+    "id": "special_0478",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "دراسة تناقش دور الاحزاب السياسية في بناء الانظمة الديمقراطية الحديثة"
+  },
+  {
+    "id": "special_0479",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "يقدم المؤلف قراءة نقدية لتجربة الحكم الاستبدادي في القرن العشرين"
+  },
+  {
+    "id": "special_0480",
+    "broad_genre": "Informative",
+    "specific_genre": "political_book_description",
+    "Text": "كتاب يستعرض تطور العلاقات الدولية بعد نهاية الحرب الباردة وتشكل النظام العالمي الجديد"
+  },
+  {
+    "id": "special_0481",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "افتتاح مساجد جديدة"
+  },
+  {
+    "id": "special_0482",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "استضافت العاصمة مؤتمرا دوليا لعلماء الدين لمناقشة قضايا الوسطية والاعتدال"
+  },
+  {
+    "id": "special_0483",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "اقيمت صلاة الاستسقاء في عدة مدن استجابة لدعوة رسمية من الجهات الدينية"
+  },
+  {
+    "id": "special_0484",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "نظمت الهيئة الدينية حملة توعوية حول اهمية التسامح الديني بين اتباع الاديان المختلفة، بمشاركة رجال دين من مختلف الطوائف داخل البلاد استمرت لعدة ايام"
+  },
+  {
+    "id": "special_0485",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "اعلنت الجهات المعنية عن جدول مواقيت الصلاة الجديد لشهر رمضان المبارك"
+  },
+  {
+    "id": "special_0486",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "موسم الحج القياسي"
+  },
+  {
+    "id": "special_0487",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "احتفلت الكنائس المحلية بأحد الاعياد الدينية بحضور عدد كبير من المصلين"
+  },
+  {
+    "id": "special_0488",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "اقامت دار الافتاء ندوة حول الفتاوى المستجدة في القضايا المعاصرة، بمشاركة عدد من الفقهاء والمختصين في الشان الديني"
+  },
+  {
+    "id": "special_0489",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "نظم مركز اسلامي محاضرة دينية حول اهمية الصدقة في الاسلام"
+  },
+  {
+    "id": "special_0490",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "اعلنت وزارة الشؤون الدينية عن مبادرة لترميم عدد من المساجد الاثرية"
+  },
+  {
+    "id": "special_0491",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "استقبلت احدى الجامعات الاسلامية وفدا من علماء الدين لبحث سبل التعاون الاكاديمي"
+  },
+  {
+    "id": "special_0492",
+    "broad_genre": "Informative",
+    "specific_genre": "religion_news",
+    "Text": "اقيمت فعالية دينية لتوزيع المصاحف على المساجد في المناطق النائية من البلاد"
+  },
+  {
+    "id": "special_0493",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "مطلوب مندوب مبيعات"
+  },
+  {
+    "id": "special_0494",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "من يمتلك مهارات تواصل عالية يمكنه التقدم لوظيفة مستشار مبيعات في شركة سيارات"
+  },
+  {
+    "id": "special_0495",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "تعلن شركة تجزئة عن حاجتها لبائع في قسم الالكترونيات بخبرة سابقة في هذا المجال"
+  },
+  {
+    "id": "special_0496",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "فرصة عمل لمندوب مبيعات تامين، يتولى التواصل مع العملاء المحتملين وشرح عروض التامين المتاحة، مع تحقيق اهداف مبيعات شهرية محددة من قبل الادارة"
+  },
+  {
+    "id": "special_0497",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "مطلوب موظف مبيعات داخلية للرد على استفسارات العملاء عبر الهاتف"
+  },
+  {
+    "id": "special_0498",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "مندوب مبيعات أدوية"
+  },
+  {
+    "id": "special_0499",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "انضم الينا كموظف مبيعات عقارية للعمل ضمن فريق تسويق مشاريع سكنية جديدة"
+  },
+  {
+    "id": "special_0500",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "من مهام هذه الوظيفة الاشراف على فريق المبيعات في عدة فروع، مع متابعة تحقيق الاهداف الشهرية وتقديم الدعم اللازم للفريق"
+  },
+  {
+    "id": "special_0501",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "مطلوب موظف مبيعات مباشرة لمنتجات تجميل عبر الزيارات الميدانية"
+  },
+  {
+    "id": "special_0502",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "تعلن شركة تقنية عن حاجتها لمستشار مبيعات حلول برمجية للشركات المتوسطة والكبيرة"
+  },
+  {
+    "id": "special_0503",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "وظيفة منسق مبيعات لمتابعة طلبات العملاء وتنسيقها مع فريق التوصيل"
+  },
+  {
+    "id": "special_0504",
+    "broad_genre": "Informative",
+    "specific_genre": "sales_jobs",
+    "Text": "مطلوب مندوب مبيعات اثاث للعمل في معرض تجاري كبير يستقبل زبائن من مختلف المناطق"
+  },
+  {
+    "id": "special_0505",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "كتاب عن الفضاء"
+  },
+  {
+    "id": "special_0506",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "يستعرض هذا الكتاب رحلة الانسان في اكتشاف اسرار الكون منذ بدايات علم الفلك"
+  },
+  {
+    "id": "special_0507",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "دراسة علمية تتناول تاثير التغير المناخي على التنوع البيولوجي حول العالم بأسلوب موثق"
+  },
+  {
+    "id": "special_0508",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "يقدم المؤلف في هذا الكتاب نظرة شاملة على نظرية التطور، مستعرضا الادلة الاحفورية والجينية التي تدعمها، الى جانب اثرها على فهمنا لتاريخ الحياة على الارض عبر ملايين السنين"
+  },
+  {
+    "id": "special_0509",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "كتاب يشرح اليات عمل الدماغ البشري واحدث الاكتشافات في علم الاعصاب"
+  },
+  {
+    "id": "special_0510",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "اسرار الاعماق البحرية"
+  },
+  {
+    "id": "special_0511",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "دراسة علمية تتناول اثر التلوث البيئي على صحة الانسان والنظم البيئية المختلفة"
+  },
+  {
+    "id": "special_0512",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "يستعرض الكتاب تاريخ الطب واهم الاكتشافات التي غيرت مسار الرعاية الصحية، مع تسليط الضوء على العلماء الذين ساهموا في هذه الانجازات الطبية الكبرى"
+  },
+  {
+    "id": "special_0513",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "كتاب يشرح مبادئ الفيزياء الكمية باسلوب مبسط يناسب القارئ العام"
+  },
+  {
+    "id": "special_0514",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "دراسة تتناول عالم الحشرات ودورها الحيوي في التوازن البيئي"
+  },
+  {
+    "id": "special_0515",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "يقدم المؤلف رحلة استكشافية في الفضاء الخارجي واحدث بعثات استكشاف الكواكب"
+  },
+  {
+    "id": "special_0516",
+    "broad_genre": "Informative",
+    "specific_genre": "science_nature_book_description",
+    "Text": "كتاب يبحث في تاثير الهندسة الوراثية على مستقبل الزراعة والغذاء في العقود القادمة"
+  },
+  {
+    "id": "special_0517",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "مطلوب حارس أمن"
+  },
+  {
+    "id": "special_0518",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "من يمتلك خبرة في مراقبة الكاميرات يمكنه التقدم لوظيفة موظف مراقبة أمنية لدينا"
+  },
+  {
+    "id": "special_0519",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "تعلن شركة أمنية عن حاجتها لمشرف أمن لمتابعة اداء فرق الحراسة في عدة مواقع"
+  },
+  {
+    "id": "special_0520",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "فرصة عمل لضابط أمن في منشأة صناعية حساسة، يتولى الاشراف على تطبيق اجراءات السلامة ومنع الدخول غير المصرح به الى المرافق الحيوية على مدار الساعة"
+  },
+  {
+    "id": "special_0521",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "مطلوب حارس أمن ليلي للعمل في مستودعات لوجستية كبرى"
+  },
+  {
+    "id": "special_0522",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "أفراد أمن للفعاليات"
+  },
+  {
+    "id": "special_0523",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "انضم الينا كمنسق أمن سيبراني لمتابعة الحوادث الأمنية الرقمية بشكل مستمر"
+  },
+  {
+    "id": "special_0524",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "من مهام هذه الوظيفة متابعة تطبيق معايير السلامة في المصانع، مع اجراء جولات تفتيشية دورية والتاكد من التزام العمال بها"
+  },
+  {
+    "id": "special_0525",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "مطلوب مدرب أمن وسلامة لتقديم دورات توعوية للموظفين الجدد"
+  },
+  {
+    "id": "special_0526",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "تعلن جهة حكومية عن حاجتها لأفراد أمن لتأمين الفعاليات العامة الكبرى"
+  },
+  {
+    "id": "special_0527",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "وظيفة مسؤول تفتيش أمني للعمل عند مداخل المباني الحكومية"
+  },
+  {
+    "id": "special_0528",
+    "broad_genre": "Informative",
+    "specific_genre": "security_jobs",
+    "Text": "مطلوب حارس أمن مرافق سكنية يشترط توفر رخصة حمل سلاح ان وجدت وخبرة سابقة"
+  },
+  {
+    "id": "special_0529",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "كتاب عن أصول الفقه"
+  },
+  {
+    "id": "special_0530",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "يتناول هذا الكتاب اصول الفقه الاسلامي وقواعد الاستنباط عند العلماء"
+  },
+  {
+    "id": "special_0531",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "دراسة فقهية تشرح احكام المعاملات التجارية وفق الشريعة الاسلامية بشكل مفصل وواضح"
+  },
+  {
+    "id": "special_0532",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "يقدم المؤلف في هذا العمل تحليلا مقارنا لأحكام الميراث في الشريعة الاسلامية، مستعرضا كيفية تطبيقها في القوانين المدنية الحديثة داخل المجتمعات المسلمة المعاصرة"
+  },
+  {
+    "id": "special_0533",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "كتاب يناقش احكام الاسرة في الفقه الاسلامي من زواج وطلاق ونفقة"
+  },
+  {
+    "id": "special_0534",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "أحكام الحدود والتعزير"
+  },
+  {
+    "id": "special_0535",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "دراسة تتناول قواعد القضاء الشرعي واليات الفصل في المنازعات"
+  },
+  {
+    "id": "special_0536",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "يستعرض الكتاب تطور المذاهب الفقهية الاربعة واثرها على الفقه المعاصر، مع مقارنة بين اراء الفقهاء في المسائل الخلافية المختلفة"
+  },
+  {
+    "id": "special_0537",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "كتاب يبحث في مفهوم الاجتهاد وضوابطه في الفقه الاسلامي المعاصر"
+  },
+  {
+    "id": "special_0538",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "دراسة فقهية تتناول احكام الوقف واثره في التنمية الاجتماعية"
+  },
+  {
+    "id": "special_0539",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "يقدم المؤلف شرحا لأحكام العبادات في المذهب الفقهي السائد بالمنطقة"
+  },
+  {
+    "id": "special_0540",
+    "broad_genre": "Informative",
+    "specific_genre": "sharia_law_book_description",
+    "Text": "كتاب يستعرض تاريخ التشريع الاسلامي وتطوره عبر العصور المختلفة منذ عهد النبوة"
+  },
+  {
+    "id": "special_0541",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "كتاب عن الاولمبياد"
+  },
+  {
+    "id": "special_0542",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "يستعرض هذا الكتاب قصص ابرز اللاعبين الذين غيروا تاريخ كرة القدم العالمية"
+  },
+  {
+    "id": "special_0543",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "كتاب يتناول تاريخ الالعاب الاولمبية منذ نشاتها في اليونان القديمة وحتى اليوم"
+  },
+  {
+    "id": "special_0544",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "يستعرض الكتاب قصة ناد رياضي عريق منذ تاسيسه وحتى تحقيقه اهم بطولاته، مستعرضا ابرز اللاعبين والمدربين الذين ساهموا في صناعة تاريخه على مدى عقود طويلة"
+  },
+  {
+    "id": "special_0545",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "كتاب يبحث في تاريخ صناعة السينما الترفيهية وابرز نجومها المؤثرين"
+  },
+  {
+    "id": "special_0546",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "الرياضة الالكترونية"
+  },
+  {
+    "id": "special_0547",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "دراسة تتناول تاثير الرياضة الالكترونية على مفهوم البطولات الحديثة"
+  },
+  {
+    "id": "special_0548",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "يستعرض الكتاب سيرة رياضي عالمي واهم انجازاته في مسيرته الاحترافية، مع لمحات عن حياته الشخصية بعيدا عن الملاعب"
+  },
+  {
+    "id": "special_0549",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "كتاب يناقش تاريخ الموسيقى الشعبية واثرها على صناعة الترفيه"
+  },
+  {
+    "id": "special_0550",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "دراسة تتناول تطور صناعة الالعاب الرياضية الجماعية عبر العقود"
+  },
+  {
+    "id": "special_0551",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "يقدم المؤلف قراءة في تاريخ المصارعة الحرة كرياضة استعراضية شعبية"
+  },
+  {
+    "id": "special_0552",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_entertainment_book_description",
+    "Text": "كتاب يستعرض قصص نجاح رياضيين تحدوا الاعاقة ليصبحوا ابطالا عالميين رغم الظروف الصعبة"
+  },
+  {
+    "id": "special_0553",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "فوز المنتخب الوطني"
+  },
+  {
+    "id": "special_0554",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "اعلن النادي الرياضي عن تعاقده مع مدرب جديد لقيادة الفريق الأول"
+  },
+  {
+    "id": "special_0555",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "تأهل الفريق الى نهائي البطولة بعد فوزه في مباراة قوية بركلات الترجيح"
+  },
+  {
+    "id": "special_0556",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "شهدت مباراة الديربي المحلي حضورا جماهيريا كبيرا، وانتهت بالتعادل الايجابي بعد اداء متكافئ من الفريقين طوال شوطي المباراة التي اتسمت بالندية"
+  },
+  {
+    "id": "special_0557",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "أعلن الاتحاد الرياضي عن موعد انطلاق الموسم الجديد للدوري المحلي"
+  },
+  {
+    "id": "special_0558",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "اصابة قوية للاعب"
+  },
+  {
+    "id": "special_0559",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "حصل اللاعب على جائزة افضل لاعب في البطولة بعد اداء متميز طوال الموسم"
+  },
+  {
+    "id": "special_0560",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "شهدت البطولة مفاجاة كبرى بخروج الفريق المرشح للفوز من الدور الاول، بعد خسارة غير متوقعة امام فريق اقل خبرة"
+  },
+  {
+    "id": "special_0561",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "أعلن النادي عن تجديد عقد نجم الفريق لموسمين اضافيين"
+  },
+  {
+    "id": "special_0562",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "تصدر الفريق ترتيب الدوري بعد سلسلة انتصارات متتالية خلال الاسابيع الماضية"
+  },
+  {
+    "id": "special_0563",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "اقيمت مراسم افتتاح دورة الالعاب الرياضية بحضور جماهيري واسع"
+  },
+  {
+    "id": "special_0564",
+    "broad_genre": "Informative",
+    "specific_genre": "sports_news",
+    "Text": "اعلنت اللجنة المنظمة عن تأجيل المباراة بسبب سوء الاحوال الجوية المفاجئ في المنطقة"
+  },
+  {
+    "id": "special_0565",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "مطلوب فني كهرباء"
+  },
+  {
+    "id": "special_0566",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "من يمتلك خبرة في اللحام وقراءة المخططات الهندسية يمكنه الانضمام كحداد متخصص"
+  },
+  {
+    "id": "special_0567",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "تعلن شركة مقاولات عن حاجتها لنجار محترف لتصنيع الاثاث الخشبي المخصص"
+  },
+  {
+    "id": "special_0568",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "فرصة عمل لفني تكييف لصيانة وتركيب اجهزة التبريد في المنازل والمكاتب، مع توفر خبرة عملية سابقة في هذا المجال وقدرة على التعامل مع الاعطال المعقدة"
+  },
+  {
+    "id": "special_0569",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "مطلوب فني تركيب زجاج للعمل في مشاريع الواجهات الزجاجية الحديثة"
+  },
+  {
+    "id": "special_0570",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "حرفي فخار تقليدي"
+  },
+  {
+    "id": "special_0571",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "انضم الينا كحرفي جلود متخصص في صناعة المنتجات الجلدية اليدوية"
+  },
+  {
+    "id": "special_0572",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "من مهام هذه الوظيفة تركيب النوافذ والابواب من الالمنيوم، مع الالتزام بالمقاسات الدقيقة والمواصفات الفنية المطلوبة لكل مشروع"
+  },
+  {
+    "id": "special_0573",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "مطلوب فني صيانة عامة للتعامل مع الاعطال الكهربائية والسباكة البسيطة"
+  },
+  {
+    "id": "special_0574",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "تعلن ورشة عن حاجتها لسباك لصيانة وتركيب انظمة المياه في المباني السكنية"
+  },
+  {
+    "id": "special_0575",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "وظيفة نجار مسلح لتنفيذ اعمال القوالب الخشبية في مواقع البناء"
+  },
+  {
+    "id": "special_0576",
+    "broad_genre": "Informative",
+    "specific_genre": "technicians_and_craftsmen_jobs",
+    "Text": "مطلوب حرفي خياطة تقليدية للعمل في محل تفصيل ملابس شعبية معروف بجودة منتجاته"
+  },
+  {
+    "id": "special_0577",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "مطلوب مرشد سياحي"
+  },
+  {
+    "id": "special_0578",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "من يجيد عدة لغات يمكنه التقدم لوظيفة مرشد سياحي للعمل مع مجموعات الزوار الاجانب"
+  },
+  {
+    "id": "special_0579",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "تعلن سلسلة مطاعم عن حاجتها لشيف طهي متخصص في الاكلات الشرقية الاصيلة"
+  },
+  {
+    "id": "special_0580",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "فرصة عمل لنادل في مطعم فاخر، يتطلب مهارة عالية في التعامل مع الزبائن وسرعة في تقديم الطلبات، مع الحفاظ على مستوى راق من الخدمة طوال ساعات الدوام"
+  },
+  {
+    "id": "special_0581",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "مطلوب منسق رحلات سياحية لتنظيم برامج الزيارات للسياح الوافدين"
+  },
+  {
+    "id": "special_0582",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "موظف حجوزات طيران"
+  },
+  {
+    "id": "special_0583",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "انضم الينا كمضيف طيران يجيد التعامل مع حالات الطوارئ وخدمة الركاب"
+  },
+  {
+    "id": "special_0584",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "من مهام هذه الوظيفة الاشراف على العمليات اليومية لمطعم كبير وضمان جودة الخدمة، بالتنسيق مع فريق المطبخ وفريق الصالة"
+  },
+  {
+    "id": "special_0585",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "مطلوب طاهي حلويات للعمل ضمن فريق مطبخ فندق خمس نجوم"
+  },
+  {
+    "id": "special_0586",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "تعلن منتجعات سياحية عن حاجتها لمنسق فعاليات لتنظيم انشطة الضيوف المختلفة"
+  },
+  {
+    "id": "special_0587",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "وظيفة مشرف مطبخ لمتابعة معايير النظافة والجودة في تحضير الطعام"
+  },
+  {
+    "id": "special_0588",
+    "broad_genre": "Informative",
+    "specific_genre": "tourism_and_restaurants_jobs",
+    "Text": "مطلوب دليل سياحي متخصص في المواقع الاثرية والتاريخية بالمنطقة يجيد الشرح بأكثر من لغة"
+  },
+  {
+    "id": "special_0589",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "تطبيق ممتاز وسريع"
+  },
+  {
+    "id": "special_0590",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "جربت التطبيق ده كذا مرة والحمد لله بيسهل حياتي كتير في التسوق اليومي"
+  },
+  {
+    "id": "special_0591",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "للاسف التطبيق بطيء جدا وبياخد وقت طويل عشان يفتح خصوصا في اوقات الذروة"
+  },
+  {
+    "id": "special_0592",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "واجهة التطبيق حلوة وسهلة الاستخدام، بس ياريت يزودوا خيارات الدفع لان الموجودة حاليا محدودة ومش مريحة للجميع، وياريت كمان يحلوا مشكلة التاخير في التحديثات"
+  },
+  {
+    "id": "special_0593",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "ما توقعت التطبيق يكون بالسهولة دي، خدمة عملاء ممتازة وردهم سريع"
+  },
+  {
+    "id": "special_0594",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "فيه اعلانات كتير مزعجة"
+  },
+  {
+    "id": "special_0595",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "التطبيق كويس بس محتاج تحديثات اكتر عشان يبقى اسرع من كده"
+  },
+  {
+    "id": "special_0596",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "حذفت التطبيق بسبب استهلاكه الكبير للبطارية والبيانات، وحاولت اتواصل مع خدمة العملاء لكن ما لقيتش رد واضح"
+  },
+  {
+    "id": "special_0597",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "فيه مشكلة في تسجيل الدخول دايما بيطلعلي خطا من غير سبب واضح"
+  },
+  {
+    "id": "special_0598",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "أحسن تطبيق جربته لحد دلوقتي، بينفع في كل حاجة وسريع جدا في الاستخدام"
+  },
+  {
+    "id": "special_0599",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "تجربتي مع التطبيق كانت ممتازة بينصح بيه لأي حد محتاج الخدمة دي"
+  },
+  {
+    "id": "special_0600",
+    "broad_genre": "Interactive",
+    "specific_genre": "app_reviews",
+    "Text": "تطبيق رائع للمبتدئين، الشرح واضح والاستخدام بسيط جدا حتى لو مش متعود على التكنولوجيا"
+  },
+  {
+    "id": "special_0601",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "رواية جميلة جدا"
+  },
+  {
+    "id": "special_0602",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "الكتاب فيه افكار عميقة لكن للأسف الترجمة ضعيفة شوي في بعض الاجزاء"
+  },
+  {
+    "id": "special_0603",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "من افضل الكتب اللي قريتها هالسنة، النهاية كانت مفاجئة ومؤثرة جدا"
+  },
+  {
+    "id": "special_0604",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "الرواية بطيئة في البداية لكنها تتطور بشكل ممتاز في النصف الثاني، وشخصياتها مرسومة بعمق يخليك تتعاطف معاها فعلا رغم قلة عدد الصفحات"
+  },
+  {
+    "id": "special_0605",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "ما عجبتني نهاية الرواية، حسيت انها متسرعة مقارنة ببقية الاحداث"
+  },
+  {
+    "id": "special_0606",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "أسلوب الكاتب صعب شوي"
+  },
+  {
+    "id": "special_0607",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "كتاب رائع لكل من يحب التاريخ، مليان معلومات موثقة وممتعة في نفس الوقت"
+  },
+  {
+    "id": "special_0608",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "حبيت طريقة السرد جدا، حسيت اني عايش القصة مش بس بقراها، وكل شخصية كان لها صوت مميز وواضح"
+  },
+  {
+    "id": "special_0609",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "للاسف الكتاب متكرر في افكاره ومافيش جديد يضيفه عن كتبه السابقة"
+  },
+  {
+    "id": "special_0610",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "أنصح فيه بشدة، من الكتب اللي بتخليك تشوف الحياة بطريقة مختلفة"
+  },
+  {
+    "id": "special_0611",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "الكتاب خفيف وممتع، مناسب لو حابب تقرا حاجة سريعة في وقت قصير"
+  },
+  {
+    "id": "special_0612",
+    "broad_genre": "Interactive",
+    "specific_genre": "book_reviews",
+    "Text": "من أعمق الروايات اللي قريتها، خلتني افكر كتير حتى بعد ما خلصتها ورجعت اقراها تاني"
+  },
+  {
+    "id": "special_0613",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "صراحة النهاردة كان يوم تعيس"
+  },
+  {
+    "id": "special_0614",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "يا جماعة حد عنده حل لمشكلة الزحمة اللي كل يوم بتزيد في الشوارع"
+  },
+  {
+    "id": "special_0615",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "مين معايا ان الاسعار بقت مش طبيعية خالص وحسيت اني مش قادر اتابع"
+  },
+  {
+    "id": "special_0616",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "شفت النهاردة اجمل غروب شمس في حياتي، حسيت ان الدنيا لسه فيها خير رغم كل اللي بيحصل حوالينا من اخبار محبطة كتير"
+  },
+  {
+    "id": "special_0617",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "فرحان جدا اليوم اخيرا خلصت من مشروع كنت شغال عليه من شهرين"
+  },
+  {
+    "id": "special_0618",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "ليش الوقت بيمر بسرعة"
+  },
+  {
+    "id": "special_0619",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "حد عنده نصيحة لحل الارق تعبت من الليالي الطويلة دي"
+  },
+  {
+    "id": "special_0620",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "ياريت حد يفهمني ليش الناس بقت مشغولة عن بعض بالسوشيال ميديا رغم اننا اقرب لبعض من قبل"
+  },
+  {
+    "id": "special_0621",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "كل ما افتح التلفزيون الاقي نفس الاخبار المحبطة محتاجين نتفائل شوية"
+  },
+  {
+    "id": "special_0622",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "مبروك للمنتخب على الفوز النهاردة والله مباراة كانت تستاهل السهر"
+  },
+  {
+    "id": "special_0623",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "بجد محتاجين نوقف شوية ونفكر في حالنا قبل ما نستمر في نفس الروتين"
+  },
+  {
+    "id": "special_0624",
+    "broad_genre": "Interactive",
+    "specific_genre": "twitter_posts",
+    "Text": "ليش دايما اللي بيشتغل صح ما حد يشوفه واللي بيهرج بس يطلع فوق مش فاهم الموضوع ده"
+  },
+  {
+    "id": "special_0625",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "الفيديو ده جامد جدا"
+  },
+  {
+    "id": "special_0626",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "شرحك واضح ومرتب، بس ياريت الصوت يكون اعلى شوية في الفيديوهات الجاية"
+  },
+  {
+    "id": "special_0627",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "للاسف مش عاجبني الفيديو، حسيت انه طويل من غير فايدة كبيرة"
+  },
+  {
+    "id": "special_0628",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "تسلم ايدك على المجهود، الفيديو ده وضحلي حاجات كانت لسه مش فاهمها كويس من زمان، وربنا يوفقك تكمل بنفس المستوى وتزيد المحتوى الجميل ده"
+  },
+  {
+    "id": "special_0629",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "ضحكت جدا على الجزء ده محتوى خفيف ومسلي فعلا"
+  },
+  {
+    "id": "special_0630",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "الصوت مش واضح خالص"
+  },
+  {
+    "id": "special_0631",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "ياريت تعمل فيديو تاني يشرح الموضوع ده بتفاصيل اكتر"
+  },
+  {
+    "id": "special_0632",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "مافيش قناة زي قناتك دايما محتوى مفيد ومختلف عن الباقي، وبستنى كل فيديو جديد بفارغ الصبر"
+  },
+  {
+    "id": "special_0633",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "الفيديو حلو بس الموسيقى في الخلفية عالية شوية وبتشتت التركيز"
+  },
+  {
+    "id": "special_0634",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "شكرا لك على المعلومة دي كنت محتاجها من فترة طويلة"
+  },
+  {
+    "id": "special_0635",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "مش متفق معاك في كل النقط بس عرضك للموضوع كان محترم جدا"
+  },
+  {
+    "id": "special_0636",
+    "broad_genre": "Interactive",
+    "specific_genre": "youtube_comments",
+    "Text": "فيديو مفيد جدا للمبتدئين زيي ربنا يبارك في وقتك ومجهودك وننتظر المزيد"
+  },
+  {
+    "id": "special_0637",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "التواصل الفعال مهم جدا"
+  },
+  {
+    "id": "special_0638",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "تناقش هذه الورقة اهمية التواصل الفعال في بناء علاقات صحية بين افراد المجتمع"
+  },
+  {
+    "id": "special_0639",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "يبحث هذا البحث المدرسي في تاثير وسائل التواصل الحديثة على طريقة تفاعلنا مع الاخرين"
+  },
+  {
+    "id": "special_0640",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "في هذا البحث سأتناول كيف يمكن لسوء الفهم في التواصل ان يؤدي الى نزاعات كبيرة بين الاصدقاء او الزملاء، وكيف يمكن تجنب ذلك من خلال الحوار الصريح والاستماع الجيد"
+  },
+  {
+    "id": "special_0641",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "يظهر هذا التقرير ان التواصل غير اللفظي كالايماءات وتعابير الوجه لا يقل اهمية عن الكلام"
+  },
+  {
+    "id": "special_0642",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "التواصل الاسري القوي"
+  },
+  {
+    "id": "special_0643",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "تتناول هذه الورقة الفرق بين التواصل الرسمي وغير الرسمي في بيئة العمل"
+  },
+  {
+    "id": "special_0644",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "من اهم دروس التواصل التي تعلمتها هذا الفصل، ضرورة احترام راي الاخر حتى لو اختلفنا معه، وان الاستماع اهم من الكلام في كثير من الاحيان"
+  },
+  {
+    "id": "special_0645",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "يناقش هذا الموضوع كيف تؤثر اللغة المستخدمة في التواصل على مشاعر المستمع"
+  },
+  {
+    "id": "special_0646",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "تعرضنا في هذا البحث لمهارات التفاوض كجزء اساسي من فن التواصل الفعال"
+  },
+  {
+    "id": "special_0647",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي دور الاعلام في تشكيل طريقة تواصلنا مع القضايا العامة"
+  },
+  {
+    "id": "special_0648",
+    "broad_genre": "Learning",
+    "specific_genre": "communication_student_writing",
+    "Text": "تناقش هذه الورقة اهمية التواصل بين المعلم والطالب في تحسين العملية التعليمية بشكل عام"
+  },
+  {
+    "id": "special_0649",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "الحفاظ على التراث الشعبي"
+  },
+  {
+    "id": "special_0650",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "يبحث هذا البحث في تاثير الهجرة على تشكيل هوية ثقافية مزدوجة لدى الاجيال الجديدة"
+  },
+  {
+    "id": "special_0651",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "من اهم ما تعلمته عن ثقافتنا هذا الفصل هو قيمة الكرم والضيافة في مجتمعنا"
+  },
+  {
+    "id": "special_0652",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "في هذا البحث سأناقش كيف تختلف العادات والتقاليد من منطقة الى اخرى داخل نفس البلد الواحد، وكيف يمكن لهذا التنوع ان يكون مصدر قوة لا انقسام بين ابناء المجتمع"
+  },
+  {
+    "id": "special_0653",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "تناقش هذه الورقة دور اللغة الام في الحفاظ على الهوية الثقافية للافراد"
+  },
+  {
+    "id": "special_0654",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "الحكايات الشعبية القديمة"
+  },
+  {
+    "id": "special_0655",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي اهمية الفنون الشعبية كوسيلة لنقل القيم بين الاجيال"
+  },
+  {
+    "id": "special_0656",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "أعتقد ان الاحتفاظ بالحكايات الشعبية القديمة يساعد على ربط الاطفال بجذورهم، خصوصا في ظل التغيرات السريعة التي يشهدها المجتمع حاليا"
+  },
+  {
+    "id": "special_0657",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "تتناول هذه الورقة اثر وسائل التواصل الاجتماعي على تغير العادات الاجتماعية التقليدية"
+  },
+  {
+    "id": "special_0658",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "يبحث هذا التقرير في العلاقة بين الطعام التقليدي والهوية الثقافية للشعوب"
+  },
+  {
+    "id": "special_0659",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "من خلال هذا البحث تعلمت ان التسامح الثقافي أساس التعايش بين المجتمعات المختلفة"
+  },
+  {
+    "id": "special_0660",
+    "broad_genre": "Learning",
+    "specific_genre": "culture_student_writing",
+    "Text": "تناقش هذه الورقة كيف تحافظ الازياء التقليدية على معناها رغم تغير الموضة الحديثة عبر الزمن"
+  },
+  {
+    "id": "special_0661",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "الشمس تشرق في الصباح"
+  },
+  {
+    "id": "special_0662",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "القطة حيوان اليف، لها اربع ارجل وذيل طويل، وتحب اللعب بالكرة"
+  },
+  {
+    "id": "special_0663",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "الحرف أ هو اول حروف اللغة العربية، ونكتبه هكذا: أ أ أ"
+  },
+  {
+    "id": "special_0664",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "دعونا نتعلم اليوم عن الالوان الاساسية: الاحمر والاصفر والازرق، وكيف يمكننا مزجها معا للحصول على الوان جديدة وجميلة نستخدمها في رسوماتنا"
+  },
+  {
+    "id": "special_0665",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "العدد واحد يعني شيئا واحدا فقط، مثل تفاحة واحدة او كتاب واحد"
+  },
+  {
+    "id": "special_0666",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "نغسل ايدينا قبل الاكل"
+  },
+  {
+    "id": "special_0667",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "الفيل حيوان كبير له خرطوم طويل يستخدمه لشرب الماء والاكل"
+  },
+  {
+    "id": "special_0668",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "الفصول اربعة: الشتاء والربيع والصيف والخريف، ولكل فصل جو مختلف ونشاطات مختلفة نقوم بها في كل فصل"
+  },
+  {
+    "id": "special_0669",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "الاسرة تتكون من الاب والام والابناء، وكل فرد فيها يحب الاخرين"
+  },
+  {
+    "id": "special_0670",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "نقول شكرا عندما يساعدنا احد، ونقول اسف عندما نخطئ"
+  },
+  {
+    "id": "special_0671",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "القمر يظهر في الليل، والنجوم تلمع حوله في السماء المظلمة"
+  },
+  {
+    "id": "special_0672",
+    "broad_genre": "Learning",
+    "specific_genre": "early_education_textbooks",
+    "Text": "نرتب العابنا بعد الانتهاء من اللعب لان النظام عادة جميلة نتعلمها من صغرنا"
+  },
+  {
+    "id": "special_0673",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "الخلية ونواتها"
+  },
+  {
+    "id": "special_0674",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "تعرف الثورة الفرنسية بانها حدث تاريخي ادى الى انهاء الحكم الملكي المطلق في فرنسا"
+  },
+  {
+    "id": "special_0675",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "يمثل قانون نيوتن الاول العلاقة بين القوة والقصور الذاتي للاجسام المتحركة او الساكنة"
+  },
+  {
+    "id": "special_0676",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "تعتمد عملية التمثيل الضوئي على امتصاص النباتات للطاقة الضوئية من الشمس وتحويلها الى طاقة كيميائية مخزنة في جزيئات الجلوكوز، مع اطلاق الاكسجين كناتج ثانوي لهذه العملية الحيوية المهمة"
+  },
+  {
+    "id": "special_0677",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "يشكل الجهاز الدوري في جسم الانسان شبكة معقدة من الاوعية الدموية والقلب"
+  },
+  {
+    "id": "special_0678",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "الجهاز الدوري"
+  },
+  {
+    "id": "special_0679",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "تستخدم المعادلات التربيعية لحل مسائل تتضمن متغيرا مرفوعا للقوة الثانية"
+  },
+  {
+    "id": "special_0680",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "تناقش هذه الوحدة اسباب الحرب العالمية الاولى واثرها على الخريطة السياسية لاوروبا، مع تحليل العلاقات الدولية التي شكلت مسار الاحداث في تلك الفترة"
+  },
+  {
+    "id": "special_0681",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "يعد الطقس والمناخ من العوامل المؤثرة في توزيع النباتات والحيوانات جغرافيا"
+  },
+  {
+    "id": "special_0682",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "تشرح هذه الوحدة مفهوم الذرة ومكوناتها من بروتونات ونيوترونات والكترونات"
+  },
+  {
+    "id": "special_0683",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "يعرف الحمض النووي بأنه الجزيء المسؤول عن نقل الصفات الوراثية بين الاجيال"
+  },
+  {
+    "id": "special_0684",
+    "broad_genre": "Learning",
+    "specific_genre": "high_school_textbooks",
+    "Text": "تتناول هذه الوحدة قواعد النحو المتعلقة بالجملة الاسمية والجملة الفعلية مع امثلة تطبيقية متنوعة"
+  },
+  {
+    "id": "special_0685",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "الجملة المفيدة"
+  },
+  {
+    "id": "special_0686",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "تنقسم المملكة الحيوانية الى فقاريات ولافقاريات حسب وجود العمود الفقري"
+  },
+  {
+    "id": "special_0687",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "يستخدم جدول الضرب لتسهيل عمليات الحساب السريعة في الرياضيات اليومية"
+  },
+  {
+    "id": "special_0688",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "تمر دورة الماء في الطبيعة بمراحل متعددة تبدا بالتبخر ثم التكاثف ثم الهطول، واخيرا الجريان السطحي الذي يعيد الماء الى المسطحات المائية الكبرى مثل البحار والانهار"
+  },
+  {
+    "id": "special_0689",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "يعرف المحيط الهادئ بأنه اكبر محيطات العالم من حيث المساحة"
+  },
+  {
+    "id": "special_0690",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "الكهرباء الساكنة"
+  },
+  {
+    "id": "special_0691",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "تنقسم القارات الى سبع قارات رئيسية تختلف في مناخها وتضاريسها"
+  },
+  {
+    "id": "special_0692",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "تتناول هذه الوحدة اساسيات الجغرافيا مثل خطوط الطول ودوائر العرض، وكيف تستخدم هذه الخطوط لتحديد مواقع الاماكن على سطح الارض بدقة"
+  },
+  {
+    "id": "special_0693",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "يستخدم الميزان في المختبر لقياس كتلة المواد الصلبة بدقة عالية"
+  },
+  {
+    "id": "special_0694",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "يشرح هذا الدرس الفرق بين الاسماء المذكرة والمؤنثة في اللغة العربية"
+  },
+  {
+    "id": "special_0695",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "تتناول هذه الوحدة مراحل نمو النبات من البذرة وحتى النضج الكامل"
+  },
+  {
+    "id": "special_0696",
+    "broad_genre": "Learning",
+    "specific_genre": "intermediate_textbooks",
+    "Text": "يشرح هذا الفصل مفهوم الكسور وكيفية جمعها وطرحها بشكل صحيح مع تمارين تطبيقية"
+  },
+  {
+    "id": "special_0697",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "دور الشباب في التنمية"
+  },
+  {
+    "id": "special_0698",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "يبحث هذا البحث في اهمية التعليم كأساس لبناء مجتمع متقدم ومزدهر"
+  },
+  {
+    "id": "special_0699",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "من اهم عوامل التنمية الوطنية التي ناقشناها، تطوير البنية التحتية في المناطق الريفية"
+  },
+  {
+    "id": "special_0700",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "في هذا البحث سأناقش كيف يمكن للمشاريع الصغيرة ان تسهم في خلق فرص عمل حقيقية للشباب، وكيف تدعم الحكومة هذا القطاع من خلال برامج تمويل ميسرة وحوافز ضريبية"
+  },
+  {
+    "id": "special_0701",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "تناقش هذه الورقة اهمية المسؤولية المجتمعية في تحقيق التنمية المستدامة"
+  },
+  {
+    "id": "special_0702",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "تطوير القطاع الصحي"
+  },
+  {
+    "id": "special_0703",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي دور المراة في المساهمة الفعالة بسوق العمل الوطني"
+  },
+  {
+    "id": "special_0704",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "أعتقد ان الاستثمار في التعليم التقني يساعد على تقليل معدلات البطالة، خصوصا في ظل التطور السريع الذي تشهده سوق العمل حاليا"
+  },
+  {
+    "id": "special_0705",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "تتناول هذه الورقة اهمية الحفاظ على الموارد الطبيعية ضمن خطط التنمية المستقبلية"
+  },
+  {
+    "id": "special_0706",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "يبحث هذا التقرير في دور التكنولوجيا في تسريع مشاريع التنمية الوطنية"
+  },
+  {
+    "id": "special_0707",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "من خلال هذا البحث تعلمت ان المشاركة المجتمعية اساس نجاح خطط التنمية"
+  },
+  {
+    "id": "special_0708",
+    "broad_genre": "Learning",
+    "specific_genre": "national_development_student_writing",
+    "Text": "يستعرض هذا العمل دور الابتكار في تعزيز التنافسية الاقتصادية للدولة على المدى الطويل"
+  },
+  {
+    "id": "special_0709",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "يومي المفضل"
+  },
+  {
+    "id": "special_0710",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "تناول هذا الانشاء وصف رحلة مدرسية قمنا بها الى المتحف الوطني"
+  },
+  {
+    "id": "special_0711",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "من واجبات هذا الاسبوع، كتابة موضوع عن اهمية النظافة الشخصية في حياتنا اليومية"
+  },
+  {
+    "id": "special_0712",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "كتبت في هذا الواجب عن قصة قصيرة تخيلية تدور احداثها في قرية صغيرة، حيث يواجه بطل القصة تحديا يعلمه درسا مهما عن الصداقة والتعاون بين الجيران"
+  },
+  {
+    "id": "special_0713",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "يتناول هذا الموضوع وصف فصل الشتاء وتغيراته على الطبيعة من حولنا"
+  },
+  {
+    "id": "special_0714",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "أحترم معلمي"
+  },
+  {
+    "id": "special_0715",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "كتبت هذا الانشاء لأعبر عن رايي في اهمية القراءة لتنمية مهارات التفكير"
+  },
+  {
+    "id": "special_0716",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "من واجباتي المدرسية اليوم، تلخيص قصة قرأتها الاسبوع الماضي في كتاب المطالعة، وكتابة رأيي الشخصي في الشخصية الرئيسية وتصرفاتها"
+  },
+  {
+    "id": "special_0717",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "يتناول هذا الموضوع وصف يوم في حياة عامل نظافة يخدم مجتمعه بصمت"
+  },
+  {
+    "id": "special_0718",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "كتبت في هذا الواجب عن حلمي المستقبلي وكيف اخطط لتحقيقه بعد التخرج"
+  },
+  {
+    "id": "special_0719",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "يتناول هذا الانشاء وصف مدينتي واهم المعالم التي احبها فيها"
+  },
+  {
+    "id": "special_0720",
+    "broad_genre": "Learning",
+    "specific_genre": "schoolwork_student_writing",
+    "Text": "كتبت هذا الموضوع لأصف تجربتي في المشاركة بمسابقة رياضية مدرسية وما تعلمته منها"
+  },
+  {
+    "id": "special_0721",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "الادمان الرقمي"
+  },
+  {
+    "id": "special_0722",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "يبحث هذا البحث في ظاهرة الادمان الرقمي وكيفية التعامل معها بشكل صحي"
+  },
+  {
+    "id": "special_0723",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "من اهم ما ناقشناه في الصف، ضرورة الحذر من نشر المعلومات الشخصية على الانترنت"
+  },
+  {
+    "id": "special_0724",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "في هذا البحث سأتناول كيف تساهم منصات التواصل في نشر الوعي حول قضايا اجتماعية مهمة، مع الاشارة الى بعض السلبيات المرتبطة بانتشار الشائعات والمعلومات المضللة بين المستخدمين"
+  },
+  {
+    "id": "special_0725",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "تناقش هذه الورقة اثر التنمر الالكتروني على الصحة النفسية للمراهقين"
+  },
+  {
+    "id": "special_0726",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "التفاعل الحقيقي مقابل الافتراضي"
+  },
+  {
+    "id": "special_0727",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي كيف غيرت وسائل التواصل طريقة تواصل الاصدقاء"
+  },
+  {
+    "id": "special_0728",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "أعتقد ان استخدام وسائل التواصل بشكل متوازن يساعد على الاستفادة منها دون اضرار، خاصة اذا تعلمنا كيف نحدد وقتا معينا لاستخدامها يوميا"
+  },
+  {
+    "id": "special_0729",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "تتناول هذه الورقة دور المؤثرين الرقميين في تشكيل اراء جيل الشباب"
+  },
+  {
+    "id": "special_0730",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "يبحث هذا التقرير في الفرق بين التفاعل الحقيقي والافتراضي بين الاصدقاء"
+  },
+  {
+    "id": "special_0731",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "من خلال هذا البحث تعلمت اهمية التفكير قبل مشاركة أي محتوى عبر الانترنت"
+  },
+  {
+    "id": "special_0732",
+    "broad_genre": "Learning",
+    "specific_genre": "social_media_student_writing",
+    "Text": "تناقش هذه الورقة كيف تستخدم المدارس منصات التواصل لأغراض تعليمية مفيدة للطلاب"
+  },
+  {
+    "id": "special_0733",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "فوائد الرياضة اليومية"
+  },
+  {
+    "id": "special_0734",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "يبحث هذا البحث في اهمية العمل الجماعي كما تعلمناه من الرياضات الجماعية"
+  },
+  {
+    "id": "special_0735",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "من اهم الدروس التي تعلمتها من الرياضة، قيمة الالتزام بالتدريب المستمر"
+  },
+  {
+    "id": "special_0736",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "في هذا البحث سأتحدث عن تجربتي الشخصية في الانضمام الى فريق كرة القدم المدرسي، وكيف ساعدني ذلك على تطوير الثقة بالنفس والانضباط داخل الفريق وخارجه"
+  },
+  {
+    "id": "special_0737",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "تناقش هذه الورقة اهمية الروح الرياضية في التعامل مع الفوز والخسارة"
+  },
+  {
+    "id": "special_0738",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "الرياضة تعلم الانضباط"
+  },
+  {
+    "id": "special_0739",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي فوائد الرياضة في تخفيف التوتر والضغط النفسي"
+  },
+  {
+    "id": "special_0740",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "أعتقد ان ممارسة الرياضة منذ الصغر تساعد على بناء جسم قوي وصحي، وتعلم الطفل مبادئ التعاون والانضباط منذ سنواته الاولى"
+  },
+  {
+    "id": "special_0741",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "تتناول هذه الورقة تاريخ احدى الرياضات الشعبية وتطورها عبر الزمن"
+  },
+  {
+    "id": "special_0742",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "يبحث هذا التقرير في اهمية التغذية السليمة لدعم اداء الرياضيين"
+  },
+  {
+    "id": "special_0743",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "من خلال هذا البحث تعلمت ان الرياضة تعلمنا الصبر والانضباط معا"
+  },
+  {
+    "id": "special_0744",
+    "broad_genre": "Learning",
+    "specific_genre": "sports_student_writing",
+    "Text": "يستعرض هذا العمل تجربتي في المشاركة بسباق جري مدرسي وشعوري بالفخر بعد انهائه بنجاح"
+  },
+  {
+    "id": "special_0745",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "الذكاء الاصطناعي"
+  },
+  {
+    "id": "special_0746",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "يبحث هذا البحث في كيفية استخدام التكنولوجيا لتحسين جودة التعليم في المدارس"
+  },
+  {
+    "id": "special_0747",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "من اهم ما تعلمته عن التكنولوجيا هذا الفصل، اهمية الامن الرقمي لحماية بياناتنا"
+  },
+  {
+    "id": "special_0748",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "في هذا البحث سأتناول كيف غيرت الهواتف الذكية طريقة تواصلنا وتعلمنا، مع التطرق الى بعض الاثار السلبية المرتبطة بالافراط في استخدامها دون وعي كاف بمخاطرها"
+  },
+  {
+    "id": "special_0749",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "تناقش هذه الورقة دور الروبوتات في تطوير الصناعات الحديثة حول العالم"
+  },
+  {
+    "id": "special_0750",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "مستقبل السيارات ذاتية القيادة"
+  },
+  {
+    "id": "special_0751",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي اهمية البرمجة كمهارة اساسية لأجيال المستقبل"
+  },
+  {
+    "id": "special_0752",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "أعتقد ان التكنولوجيا الحديثة سهلت كثيرا من مهام الحياة اليومية للناس، لكنها ايضا تتطلب منا وعيا اكبر بكيفية استخدامها بشكل سليم"
+  },
+  {
+    "id": "special_0753",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "تتناول هذه الورقة تاثير الالعاب الرقمية على تنمية مهارات التفكير المنطقي"
+  },
+  {
+    "id": "special_0754",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "يبحث هذا التقرير في مستقبل السيارات ذاتية القيادة وتاثيرها على النقل"
+  },
+  {
+    "id": "special_0755",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "من خلال هذا البحث تعلمت اهمية موازنة استخدام التكنولوجيا مع الانشطة الاخرى"
+  },
+  {
+    "id": "special_0756",
+    "broad_genre": "Learning",
+    "specific_genre": "technology_student_writing",
+    "Text": "تناقش هذه الورقة دور الانترنت في تسهيل الوصول الى المعرفة والتعلم الذاتي للطلاب"
+  },
+  {
+    "id": "special_0757",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "المملكة النباتية"
+  },
+  {
+    "id": "special_0758",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "يمر الطعام في جسم الانسان عبر الجهاز الهضمي الذي يبدأ من الفم وينتهي عند الامعاء"
+  },
+  {
+    "id": "special_0759",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "تقاس درجة الحرارة باستخدام اداة تسمى الترمومتر، وتختلف الوحدات المستخدمة لقياسها"
+  },
+  {
+    "id": "special_0760",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "تنقسم المادة الى ثلاث حالات رئيسية هي الصلبة والسائلة والغازية، ويمكن ان تتحول المادة من حالة الى اخرى عند تغير درجة الحرارة او الضغط المحيط بها"
+  },
+  {
+    "id": "special_0761",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "يعيش النحل في مجتمعات منظمة تضم الملكة والعاملات والذكور، ولكل منها دور محدد"
+  },
+  {
+    "id": "special_0762",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "البوصلة والاتجاهات"
+  },
+  {
+    "id": "special_0763",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "تتكون الخريطة من رموز ومفتاح يساعدنا على فهم المعلومات الجغرافية بسهولة"
+  },
+  {
+    "id": "special_0764",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "تشرح هذه الوحدة كيف تتكاثر بعض الحيوانات بالبيض واخرى تلد صغارها مباشرة، مع امثلة متنوعة من عالم الحيوان تساعد على فهم الفرق بينهما"
+  },
+  {
+    "id": "special_0765",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "يعد الماء من اهم الموارد الطبيعية التي يجب علينا الحفاظ عليها وعدم اهدارها"
+  },
+  {
+    "id": "special_0766",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "تتناول هذه الوحدة أساسيات الجمع والطرح للأعداد المكونة من اكثر من رقمين"
+  },
+  {
+    "id": "special_0767",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "يشرح هذا الدرس كيف تتشكل الغيوم وتؤدي الى هطول الامطار على الارض"
+  },
+  {
+    "id": "special_0768",
+    "broad_genre": "Learning",
+    "specific_genre": "upper_elementary_textbooks",
+    "Text": "تتناول هذه الوحدة اهمية الطاقة الشمسية كمصدر نظيف ومتجدد للطاقة في المستقبل"
+  },
+  {
+    "id": "special_0769",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "قيمة الصدق"
+  },
+  {
+    "id": "special_0770",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "يبحث هذا البحث في مفهوم الامانة واثرها على نجاح الفرد في حياته المهنية"
+  },
+  {
+    "id": "special_0771",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "من اهم القيم التي ناقشناها هذا الفصل، احترام الكبير والعطف على الصغير"
+  },
+  {
+    "id": "special_0772",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "في هذا البحث سأتناول قيمة التعاون من خلال قصة واقعية شهدتها في مدرستي، حيث ساعد مجموعة من الطلاب زميلهم المريض على انجاز واجباته أثناء غيابه"
+  },
+  {
+    "id": "special_0773",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "تناقش هذه الورقة اهمية الصبر في مواجهة الصعوبات وتحقيق الاهداف"
+  },
+  {
+    "id": "special_0774",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "الوفاء بالوعود"
+  },
+  {
+    "id": "special_0775",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "يستعرض هذا العمل المدرسي دور العدل في تحقيق التوازن داخل المجتمع"
+  },
+  {
+    "id": "special_0776",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "أعتقد ان قيمة التسامح تساعد على حل الخلافات وبناء علاقات صحية، خصوصا بين الاصدقاء والزملاء في المدرسة والحياة اليومية"
+  },
+  {
+    "id": "special_0777",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "تتناول هذه الورقة اهمية المسؤولية الفردية في المحافظة على الممتلكات العامة"
+  },
+  {
+    "id": "special_0778",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "يبحث هذا التقرير في قيمة الشجاعة من خلال قصص أبطال تاريخيين معروفين"
+  },
+  {
+    "id": "special_0779",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "من خلال هذا البحث تعلمت ان التواضع صفة تجعل الانسان محبوبا بين الجميع"
+  },
+  {
+    "id": "special_0780",
+    "broad_genre": "Learning",
+    "specific_genre": "values_student_writing",
+    "Text": "يستعرض هذا العمل قيمة الاحترام المتبادل بين الطلاب والمعلمين داخل الصف الدراسي"
+  },
+  {
+    "id": "special_0781",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "السيادة للشعب"
+  },
+  {
+    "id": "special_0782",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "يكفل هذا الدستور حرية الرأي والتعبير لكل مواطن في حدود القانون"
+  },
+  {
+    "id": "special_0783",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "تعد المساواة بين المواطنين امام القانون مبدأ اساسيا لا يجوز المساس به"
+  },
+  {
+    "id": "special_0784",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "ينص هذا الدستور على الفصل بين السلطات التشريعية والتنفيذية والقضائية، بما يضمن استقلالية كل سلطة عن الاخرى، ويحقق التوازن اللازم لحماية الحقوق والحريات العامة لجميع المواطنين"
+  },
+  {
+    "id": "special_0785",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "يحق لكل مواطن التقاضي امام المحاكم المختصة وفقا للإجراءات المنصوص عليها قانونا"
+  },
+  {
+    "id": "special_0786",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "حماية الملكية الخاصة"
+  },
+  {
+    "id": "special_0787",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "تصان حرية العقيدة وممارسة الشعائر الدينية للجميع وفق النظام العام"
+  },
+  {
+    "id": "special_0788",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "ينتخب رئيس الدولة لمدة محددة قابلة للتجديد وفق الضوابط المنصوص عليها، ويشرف على العملية الانتخابية جهاز قضائي مستقل يضمن نزاهتها"
+  },
+  {
+    "id": "special_0789",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "تلتزم الدولة بحماية الملكية الخاصة ولا يجوز نزعها الا للمنفعة العامة وبتعويض عادل"
+  },
+  {
+    "id": "special_0790",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "يشكل المجلس التشريعي عبر انتخابات دورية حرة ونزيهة يشارك فيها كافة المواطنين"
+  },
+  {
+    "id": "special_0791",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "تكفل الدولة حق التعليم المجاني لجميع المواطنين في مراحله الاساسية"
+  },
+  {
+    "id": "special_0792",
+    "broad_genre": "Legal",
+    "specific_genre": "constitutions",
+    "Text": "لا يجوز تعديل هذا الدستور الا وفق الاجراءات الخاصة المنصوص عليها في بابه الاخير"
+  },
+  {
+    "id": "special_0793",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يلتزم الطرف الأول بالتسليم"
+  },
+  {
+    "id": "special_0794",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يتعهد الطرف الثاني بسداد كامل المبلغ المستحق عند استلام الخدمة المتفق عليها"
+  },
+  {
+    "id": "special_0795",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "تعد هذه الاتفاقية سارية المفعول من تاريخ توقيعها ولمدة عام واحد قابل للتجديد"
+  },
+  {
+    "id": "special_0796",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يلتزم المستأجر بالمحافظة على العين المؤجرة وعدم اجراء أي تعديلات جوهرية عليها دون موافقة خطية مسبقة من المالك، مع تحمله مسؤولية أي اضرار تنجم عن سوء الاستخدام"
+  },
+  {
+    "id": "special_0797",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يحق لأي من الطرفين انهاء هذا العقد بإشعار خطي مسبق مدته ثلاثون يوما"
+  },
+  {
+    "id": "special_0798",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "سرية المعلومات المتبادلة"
+  },
+  {
+    "id": "special_0799",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يتحمل الطرف الأول كافة النفقات المتعلقة بالصيانة الدورية للمعدات المؤجرة"
+  },
+  {
+    "id": "special_0800",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يلتزم المقاول بتنفيذ الاعمال وفق المواصفات الفنية المرفقة بهذا العقد، وتخضع أي مخالفة لهذه المواصفات للمسائلة وفق الشروط المتفق عليها بين الطرفين"
+  },
+  {
+    "id": "special_0801",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "تخضع هذه الاتفاقية لأحكام القانون المحلي وتحال أي نزاعات الى التحكيم"
+  },
+  {
+    "id": "special_0802",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "تدفع المستحقات المالية على اقساط شهرية متساوية حتى استكمال المبلغ الاجمالي"
+  },
+  {
+    "id": "special_0803",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يحق للطرف الثاني المطالبة بتعويض في حال اخلال الطرف الأول بالتزاماته التعاقدية"
+  },
+  {
+    "id": "special_0804",
+    "broad_genre": "Legal",
+    "specific_genre": "contracts",
+    "Text": "يشمل هذا العقد كافة الملاحق المرفقة والتي تعد جزءا لا يتجزأ منه بحسب المتفق عليه"
+  },
+  {
+    "id": "special_0805",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "اعتماد الميزانية السنوية"
+  },
+  {
+    "id": "special_0806",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "أصدرت الجمعية العمومية توصية بتعديل اللائحة الداخلية للمؤسسة"
+  },
+  {
+    "id": "special_0807",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "وافق المجلس بالإجماع على تعيين لجنة مختصة لمتابعة تنفيذ القرار الاخير"
+  },
+  {
+    "id": "special_0808",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "قررت الهيئة اعتماد خطة استراتيجية جديدة للسنوات الخمس المقبلة، تتضمن اهدافا محددة لتحسين الأداء المؤسسي وتعزيز الشفافية في اتخاذ القرارات على جميع المستويات"
+  },
+  {
+    "id": "special_0809",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "أصدر مجلس الادارة قرارا بتشكيل لجنة تحقيق في الشكاوى المقدمة مؤخرا"
+  },
+  {
+    "id": "special_0810",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "تمديد فترة اللجنة المؤقتة"
+  },
+  {
+    "id": "special_0811",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "وافقت الهيئة العامة على تخصيص ميزانية اضافية لدعم المشاريع التنموية"
+  },
+  {
+    "id": "special_0812",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "قرر المجلس الموافقة على تعديل النظام الأساسي للمؤسسة بما يتوافق مع المستجدات، وذلك بعد مراجعة شاملة من قبل اللجنة القانونية المختصة"
+  },
+  {
+    "id": "special_0813",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "أصدرت اللجنة توصية بضرورة مراجعة السياسات الداخلية بشكل دوري"
+  },
+  {
+    "id": "special_0814",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "قررت الجمعية اعتماد التقرير المالي السنوي كما ورد من لجنة المراجعة"
+  },
+  {
+    "id": "special_0815",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "أصدر المجلس قرارا بإنشاء صندوق خاص لدعم المشاريع الصغيرة والناشئة"
+  },
+  {
+    "id": "special_0816",
+    "broad_genre": "Legal",
+    "specific_genre": "resolutions",
+    "Text": "وافقت الهيئة على توصية بتعزيز التعاون مع المنظمات الدولية ذات الصلة بهذا الملف"
+  },
+  {
+    "id": "special_0817",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "في البدء خلق الله السماوات والارض"
+  },
+  {
+    "id": "special_0818",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "الرب راعي فلا يعوزني شيء"
+  },
+  {
+    "id": "special_0819",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "الرب نوري وخلاصي فممن اخاف، الرب حصن حياتي فممن ارتعب"
+  },
+  {
+    "id": "special_0820",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "لأنه هكذا احب الله العالم حتى بذل ابنه الوحيد لكي لا يهلك كل من يؤمن به بل تكون له الحياة الابدية"
+  },
+  {
+    "id": "special_0821",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "اطلبوا اولا ملكوت الله وبره وهذه كلها تزاد لكم"
+  },
+  {
+    "id": "special_0822",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "كل شيء له زمان"
+  },
+  {
+    "id": "special_0823",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "لا تهتموا للغد لأن الغد يهتم بما لنفسه، يكفي اليوم شره"
+  },
+  {
+    "id": "special_0824",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "طوبى للودعاء لأنهم يرثون الارض، طوبى للمساكين بالروح لأن لهم ملكوت السماوات، طوبى للرحماء لأنهم يرحمون"
+  },
+  {
+    "id": "special_0825",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "احبوا بعضكم بعضا كما احببتكم، بهذا يعرف الجميع انكم تلاميذي"
+  },
+  {
+    "id": "special_0826",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "تباركوا الصانعين للسلام لأنهم ابناء الله يدعون"
+  },
+  {
+    "id": "special_0827",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "الحكمة افضل من الجواهر وكل ما يشتهى لا يعادلها"
+  },
+  {
+    "id": "special_0828",
+    "broad_genre": "Religious",
+    "specific_genre": "bible",
+    "Text": "طوبى لأنقياء القلب لأنهم يعاينون الله، وطوبى للمطرودين من اجل البر لأن لهم ملكوت السماوات"
+  },
+  {
+    "id": "special_0829",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "المحبة اساس التعاليم"
+  },
+  {
+    "id": "special_0830",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يشير هذا النص الانجيلي الى مفهوم المحبة كأساس للتعاليم المسيحية، حيث يقدم الحب للآخرين على انه معيار حقيقي للإيمان"
+  },
+  {
+    "id": "special_0831",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يمكن فهم هذه الفقرة في سياقها التاريخي، حين كانت المجتمعات تعاني من انقسامات اجتماعية عميقة تدعو الى المصالحة"
+  },
+  {
+    "id": "special_0832",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يوضح المفسرون ان هذه الوصايا التسع تحمل بعدا اخلاقيا شاملا يتجاوز الجانب الديني الظاهري، اذ تدعو الى بناء شخصية متوازنة تجمع بين التواضع والرحمة والصبر في مواجهة الصعوبات اليومية"
+  },
+  {
+    "id": "special_0833",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "تحمل هذه الآية دلالة رمزية عميقة تتعلق بالثقة المطلقة في العناية الالهية"
+  },
+  {
+    "id": "special_0834",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "رسالة قبول الاخر"
+  },
+  {
+    "id": "special_0835",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "تظهر هذه القصة كيف يمكن للإيمان ان يتحول الى فعل عملي ملموس في حياة الافراد"
+  },
+  {
+    "id": "special_0836",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يرى بعض الدارسين ان هذا المثل يحمل رسالة عن قبول الآخر بغض النظر عن خلفيته او ظروفه الاجتماعية"
+  },
+  {
+    "id": "special_0837",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يناقش هذا التفسير العلاقة بين النعمة الالهية والمسؤولية الفردية في السلوك الاخلاقي"
+  },
+  {
+    "id": "special_0838",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "تقرا هذه الرسالة عادة في سياق التشجيع على الصبر اثناء فترات الاضطهاد والشدة"
+  },
+  {
+    "id": "special_0839",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يبرز هذا النص اهمية التسامح كقيمة محورية في العلاقات الانسانية داخل الجماعة المؤمنة"
+  },
+  {
+    "id": "special_0840",
+    "broad_genre": "Religious",
+    "specific_genre": "biblical",
+    "Text": "يفسر بعض اللاهوتيين هذه الآية على انها دعوة للتواضع امام محدودية الفهم البشري"
+  },
+  {
+    "id": "special_0841",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "اللهم املأ قلوبنا سلاما"
+  },
+  {
+    "id": "special_0842",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "في هدوء الليل نقف امامك يا رب، نطلب منك ان تنير دروبنا وتثبت خطانا"
+  },
+  {
+    "id": "special_0843",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "يا رب علمنا الصبر كما علمت القديسين، واجعل قلوبنا مطمئنة مهما اشتدت التجارب"
+  },
+  {
+    "id": "special_0844",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "نتأمل اليوم في محبتك التي لا تنضب، ونطلب منك ان تمنحنا قلبا يعرف كيف يحب كما احببتنا، رغم ضعفنا وتقصيرنا في كل حين وفي كل موقف"
+  },
+  {
+    "id": "special_0845",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "نشكرك يا رب على نعمة الحياة، ونطلب ان تحفظ بيوتنا واحباءنا من كل شر"
+  },
+  {
+    "id": "special_0846",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "في الصوم نتعلم ضبط النفس"
+  },
+  {
+    "id": "special_0847",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "يا ام النور اعيني علينا في ضعفنا، واشفعي لنا امام ابنك الحبيب"
+  },
+  {
+    "id": "special_0848",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "نطلب منك يا رب ان تمنحنا قلبا نقيا يرى الخير في كل انسان، ويتجاوز الحكم على الآخرين بسرعة قبل معرفة ظروفهم"
+  },
+  {
+    "id": "special_0849",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "اللهم اجعل خطواتنا اليوم في طريق الرحمة، وباركنا في عملنا وسعينا"
+  },
+  {
+    "id": "special_0850",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "نحن في يديك يا رب، فاحفظنا في ضعفنا وقونا في تجاربنا اليومية"
+  },
+  {
+    "id": "special_0851",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "يا رب، علمنا ان نغفر كما غفرت لنا، وان نحب كما احببتنا بلا حدود"
+  },
+  {
+    "id": "special_0852",
+    "broad_genre": "Religious",
+    "specific_genre": "coptic_devotional_literature",
+    "Text": "اللهم اجعل الصلاة نورا لقلوبنا في وسط ظلمة هذا العالم المتعب"
+  },
+  {
+    "id": "special_0853",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: الحياء لا يأتي الا بخير"
+  },
+  {
+    "id": "special_0854",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: المسلم من سلم المسلمون من لسانه ويده"
+  },
+  {
+    "id": "special_0855",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه"
+  },
+  {
+    "id": "special_0856",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم حين سئل عن الدين، فقال: الدين النصيحة، قلنا لمن؟ قال: لله ولكتابه ولرسوله ولأئمة المسلمين وعامتهم"
+  },
+  {
+    "id": "special_0857",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: من كان يؤمن بالله واليوم الآخر فليقل خيرا او ليصمت"
+  },
+  {
+    "id": "special_0858",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: تبسمك في وجه اخيك صدقة"
+  },
+  {
+    "id": "special_0859",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: الطهور شطر الايمان"
+  },
+  {
+    "id": "special_0860",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: المؤمن القوي خير واحب الى الله من المؤمن الضعيف، وفي كل خير احرص على ما ينفعك واستعن بالله ولا تعجز"
+  },
+  {
+    "id": "special_0861",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: من لا يرحم لا يرحم"
+  },
+  {
+    "id": "special_0862",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: الكلمة الطيبة صدقة"
+  },
+  {
+    "id": "special_0863",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: لا تحاسدوا ولا تباغضوا وكونوا عباد الله اخوانا"
+  },
+  {
+    "id": "special_0864",
+    "broad_genre": "Religious",
+    "specific_genre": "hadith",
+    "Text": "قال رسول الله صلى الله عليه وسلم: انما الأعمال بالنيات، وانما لكل امرئ ما نوى"
+  },
+  {
+    "id": "special_0865",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "بسم الله الرحمن الرحيم"
+  },
+  {
+    "id": "special_0866",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "وقل رب زدني علما"
+  },
+  {
+    "id": "special_0867",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "وان مع العسر يسرا"
+  },
+  {
+    "id": "special_0868",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "قل هو الله احد، الله الصمد، لم يلد ولم يولد، ولم يكن له كفوا احد"
+  },
+  {
+    "id": "special_0869",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "فاذكروني اذكركم واشكروا لي ولا تكفرون"
+  },
+  {
+    "id": "special_0870",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "لا اكراه في الدين قد تبين الرشد من الغي"
+  },
+  {
+    "id": "special_0871",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "الذين اذا اصابتهم مصيبة قالوا انا لله وانا اليه راجعون"
+  },
+  {
+    "id": "special_0872",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "وتعاونوا على البر والتقوى ولا تعاونوا على الاثم والعدوان"
+  },
+  {
+    "id": "special_0873",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار"
+  },
+  {
+    "id": "special_0874",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "ومن يتق الله يجعل له مخرجا، ويرزقه من حيث لا يحتسب"
+  },
+  {
+    "id": "special_0875",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "واصبر وما صبرك الا بالله، ان الله مع الصابرين"
+  },
+  {
+    "id": "special_0876",
+    "broad_genre": "Religious",
+    "specific_genre": "quran",
+    "Text": "وان مع العسر يسرا، فاذا فرغت فانصب، والى ربك فارغب"
+  },
+  {
+    "id": "special_0877",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "سورة الاخلاص تعادل ثلث القرآن"
+  },
+  {
+    "id": "special_0878",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "تشير كلمة الصمد في اللغة الى السيد الذي يقصد اليه في الحوائج"
+  },
+  {
+    "id": "special_0879",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "يبين المفسرون ان قوله تعالى فان مع العسر يسرا تكرار للتأكيد على ان اليسر يصاحب العسر ولا ينفصل عنه"
+  },
+  {
+    "id": "special_0880",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "ذكر اهل التفسير ان آية الكرسي اشتملت على اسماء الله الحسنى وصفاته العلا، وقد وردت احاديث في فضلها واثرها في حفظ الانسان من الشرور، مما جعلها من اعظم آيات القرآن الكريم"
+  },
+  {
+    "id": "special_0881",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "يوضح المفسرون ان قوله تعالى لا اكراه في الدين نزل في سياق التأكيد على حرية الاعتقاد بعد وضوح الحق من الباطل"
+  },
+  {
+    "id": "special_0882",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "طلب العلم عبادة"
+  },
+  {
+    "id": "special_0883",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "يرى بعض العلماء ان الدعاء بزيادة العلم في هذه الآية يدل على ان طلب العلم عبادة لا تنتهي"
+  },
+  {
+    "id": "special_0884",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "ذكر المفسرون ان الأمر بالتعاون على البر والتقوى يشمل كل عمل صالح يقرب العبد من ربه ومن مجتمعه من حوله"
+  },
+  {
+    "id": "special_0885",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "تناول المفسرون قوله تعالى ومن يتق الله يجعل له مخرجا بأن التقوى سبب رئيسي للفرج من الضيق"
+  },
+  {
+    "id": "special_0886",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "يشرح العلماء ان الرزق من حيث لا يحتسب يدل على ان ابواب الرزق اوسع من تصور الانسان المحدود"
+  },
+  {
+    "id": "special_0887",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "ذكر المفسرون ان دعاء ربنا آتنا في الدنيا حسنة جمع بين طلب خير الدنيا والآخرة معا"
+  },
+  {
+    "id": "special_0888",
+    "broad_genre": "Religious",
+    "specific_genre": "tafsir",
+    "Text": "يبين اهل العلم ان الصبر المذكور في الآية مرتبط بالاستعانة بالله وحده دون سواه"
+  }
+]
